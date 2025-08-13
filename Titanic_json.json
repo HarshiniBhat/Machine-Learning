@@ -1,0 +1,9165 @@
+[
+  {
+    "Name": "Allen, Miss. Elisabeth Walton",
+    "survived": "yes",
+    "sex": "female",
+    "age": 29,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Allison, Master. Hudson Trevor",
+    "survived": "yes",
+    "sex": "male",
+    "age": 0.916700006,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Allison, Miss. Helen Loraine",
+    "survived": "no",
+    "sex": "female",
+    "age": 2,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Allison, Mr. Hudson Joshua Crei",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Allison, Mrs. Hudson J C (Bessi",
+    "survived": "no",
+    "sex": "female",
+    "age": 25,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Anderson, Mr. Harry",
+    "survived": "yes",
+    "sex": "male",
+    "age": 48,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Andrews, Miss. Kornelia Theodos",
+    "survived": "yes",
+    "sex": "female",
+    "age": 63,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Andrews, Mr. Thomas Jr",
+    "survived": "no",
+    "sex": "male",
+    "age": 39,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Appleton, Mrs. Edward Dale (Cha",
+    "survived": "yes",
+    "sex": "female",
+    "age": 53,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Artagaveytia, Mr. Ramon",
+    "survived": "no",
+    "sex": "male",
+    "age": 71,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Astor, Col. John Jacob",
+    "survived": "no",
+    "sex": "male",
+    "age": 47,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Astor, Mrs. John Jacob (Madelei",
+    "survived": "yes",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Aubart, Mme. Leontine Pauline",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Barber, Miss. Ellen Nellie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 26,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Barkworth, Mr. Algernon Henry W",
+    "survived": "yes",
+    "sex": "male",
+    "age": 80,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Baumann, Mr. John D",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Baxter, Mr. Quigg Edmond",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Baxter, Mrs. James (Helene DeLa",
+    "survived": "yes",
+    "sex": "female",
+    "age": 50,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Bazzani, Miss. Albina",
+    "survived": "yes",
+    "sex": "female",
+    "age": 32,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Beattie, Mr. Thomson",
+    "survived": "no",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Beckwith, Mr. Richard Leonard",
+    "survived": "yes",
+    "sex": "male",
+    "age": 37,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Beckwith, Mrs. Richard Leonard",
+    "survived": "yes",
+    "sex": "female",
+    "age": 47,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Behr, Mr. Karl Howell",
+    "survived": "yes",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Bidois, Miss. Rosalie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 42,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Bird, Miss. Ellen",
+    "survived": "yes",
+    "sex": "female",
+    "age": 29,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Birnbaum, Mr. Jakob",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Bishop, Mr. Dickinson H",
+    "survived": "yes",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Bishop, Mrs. Dickinson H (Helen",
+    "survived": "yes",
+    "sex": "female",
+    "age": 19,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Bissette, Miss. Amelia",
+    "survived": "yes",
+    "sex": "female",
+    "age": 35,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Bjornstrom-Steffansson, Mr. Mau",
+    "survived": "yes",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Blackwell, Mr. Stephen Weart",
+    "survived": "no",
+    "sex": "male",
+    "age": 45,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Blank, Mr. Henry",
+    "survived": "yes",
+    "sex": "male",
+    "age": 40,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Bonnell, Miss. Caroline",
+    "survived": "yes",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Bonnell, Miss. Elizabeth",
+    "survived": "yes",
+    "sex": "female",
+    "age": 58,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Borebank, Mr. John James",
+    "survived": "no",
+    "sex": "male",
+    "age": 42,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Bowen, Miss. Grace Scott",
+    "survived": "yes",
+    "sex": "female",
+    "age": 45,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Bowerman, Miss. Elsie Edith",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Bradley, Mr. George (George Ar",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Brady, Mr. John Bertram",
+    "survived": "no",
+    "sex": "male",
+    "age": 41,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Brandeis, Mr. Emil",
+    "survived": "no",
+    "sex": "male",
+    "age": 48,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Brewe, Dr. Arthur Jackson",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Brown, Mrs. James Joseph (Marga",
+    "survived": "yes",
+    "sex": "female",
+    "age": 44,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Brown, Mrs. John Murray (Caroli",
+    "survived": "yes",
+    "sex": "female",
+    "age": 59,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Bucknell, Mrs. William Robert (",
+    "survived": "yes",
+    "sex": "female",
+    "age": 60,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Burns, Miss. Elizabeth Margaret",
+    "survived": "yes",
+    "sex": "female",
+    "age": 41,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Butt, Major. Archibald Willingh",
+    "survived": "no",
+    "sex": "male",
+    "age": 45,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Cairns, Mr. Alexander",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Calderhead, Mr. Edward Penningt",
+    "survived": "yes",
+    "sex": "male",
+    "age": 42,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Candee, Mrs. Edward (Helen Chur",
+    "survived": "yes",
+    "sex": "female",
+    "age": 53,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Cardeza, Mr. Thomas Drake Marti",
+    "survived": "yes",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Cardeza, Mrs. James Warburton M",
+    "survived": "yes",
+    "sex": "female",
+    "age": 58,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Carlsson, Mr. Frans Olof",
+    "survived": "no",
+    "sex": "male",
+    "age": 33,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Carrau, Mr. Francisco M",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Carrau, Mr. Jose Pedro",
+    "survived": "no",
+    "sex": "male",
+    "age": 17,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Carter, Master. William Thornto",
+    "survived": "yes",
+    "sex": "male",
+    "age": 11,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Carter, Miss. Lucile Polk",
+    "survived": "yes",
+    "sex": "female",
+    "age": 14,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Carter, Mr. William Ernest",
+    "survived": "yes",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Carter, Mrs. William Ernest (Lu",
+    "survived": "yes",
+    "sex": "female",
+    "age": 36,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Case, Mr. Howard Brown",
+    "survived": "no",
+    "sex": "male",
+    "age": 49,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Cassebeer, Mrs. Henry Arthur Jr",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Cavendish, Mr. Tyrell William",
+    "survived": "no",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Cavendish, Mrs. Tyrell William",
+    "survived": "yes",
+    "sex": "female",
+    "age": 76,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Chaffee, Mr. Herbert Fuller",
+    "survived": "no",
+    "sex": "male",
+    "age": 46,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Chaffee, Mrs. Herbert Fuller (C",
+    "survived": "yes",
+    "sex": "female",
+    "age": 47,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Chambers, Mr. Norman Campbell",
+    "survived": "yes",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Chambers, Mrs. Norman Campbell",
+    "survived": "yes",
+    "sex": "female",
+    "age": 33,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Chaudanson, Miss. Victorine",
+    "survived": "yes",
+    "sex": "female",
+    "age": 36,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Cherry, Miss. Gladys",
+    "survived": "yes",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Chevre, Mr. Paul Romaine",
+    "survived": "yes",
+    "sex": "male",
+    "age": 45,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Chibnall, Mrs. (Edith Martha Bo",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Chisholm, Mr. Roderick Robert C",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Clark, Mr. Walter Miller",
+    "survived": "no",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Clark, Mrs. Walter Miller (Virg",
+    "survived": "yes",
+    "sex": "female",
+    "age": 26,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Cleaver, Miss. Alice",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Clifford, Mr. George Quincy",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Colley, Mr. Edward Pomeroy",
+    "survived": "no",
+    "sex": "male",
+    "age": 47,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Compton, Miss. Sara Rebecca",
+    "survived": "yes",
+    "sex": "female",
+    "age": 39,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Compton, Mr. Alexander Taylor J",
+    "survived": "no",
+    "sex": "male",
+    "age": 37,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Compton, Mrs. Alexander Taylor",
+    "survived": "yes",
+    "sex": "female",
+    "age": 64,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Cornell, Mrs. Robert Clifford (",
+    "survived": "yes",
+    "sex": "female",
+    "age": 55,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Crafton, Mr. John Bertram",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Crosby, Capt. Edward Gifford",
+    "survived": "no",
+    "sex": "male",
+    "age": 70,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Crosby, Miss. Harriet R",
+    "survived": "yes",
+    "sex": "female",
+    "age": 36,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Crosby, Mrs. Edward Gifford (Ca",
+    "survived": "yes",
+    "sex": "female",
+    "age": 64,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Cumings, Mr. John Bradley",
+    "survived": "no",
+    "sex": "male",
+    "age": 39,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Cumings, Mrs. John Bradley (Flo",
+    "survived": "yes",
+    "sex": "female",
+    "age": 38,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Daly, Mr. Peter Denis",
+    "survived": "yes",
+    "sex": "male",
+    "age": 51,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Daniel, Mr. Robert Williams",
+    "survived": "yes",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Daniels, Miss. Sarah",
+    "survived": "yes",
+    "sex": "female",
+    "age": 33,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Davidson, Mr. Thornton",
+    "survived": "no",
+    "sex": "male",
+    "age": 31,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Davidson, Mrs. Thornton (Orian",
+    "survived": "yes",
+    "sex": "female",
+    "age": 27,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Dick, Mr. Albert Adrian",
+    "survived": "yes",
+    "sex": "male",
+    "age": 31,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Dick, Mrs. Albert Adrian (Vera",
+    "survived": "yes",
+    "sex": "female",
+    "age": 17,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Dodge, Dr. Washington",
+    "survived": "yes",
+    "sex": "male",
+    "age": 53,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Dodge, Master. Washington",
+    "survived": "yes",
+    "sex": "male",
+    "age": 4,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Dodge, Mrs. Washington (Ruth Vi",
+    "survived": "yes",
+    "sex": "female",
+    "age": 54,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Douglas, Mr. Walter Donald",
+    "survived": "no",
+    "sex": "male",
+    "age": 50,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Douglas, Mrs. Frederick Charles",
+    "survived": "yes",
+    "sex": "female",
+    "age": 27,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Douglas, Mrs. Walter Donald (Ma",
+    "survived": "yes",
+    "sex": "female",
+    "age": 48,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Duff Gordon, Lady. (Lucille Chr",
+    "survived": "yes",
+    "sex": "female",
+    "age": 48,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Duff Gordon, Sir. Cosmo Edmund",
+    "survived": "yes",
+    "sex": "male",
+    "age": 49,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Dulles, Mr. William Crothers",
+    "survived": "no",
+    "sex": "male",
+    "age": 39,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Earnshaw, Mrs. Boulton (Olive P",
+    "survived": "yes",
+    "sex": "female",
+    "age": 23,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Endres, Miss. Caroline Louise",
+    "survived": "yes",
+    "sex": "female",
+    "age": 38,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Eustis, Miss. Elizabeth Mussey",
+    "survived": "yes",
+    "sex": "female",
+    "age": 54,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Evans, Miss. Edith Corse",
+    "survived": "no",
+    "sex": "female",
+    "age": 36,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Farthing, Mr. John",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Flegenheim, Mrs. Alfred (Antoin",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Fleming, Miss. Margaret",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Flynn, Mr. John Irwin (Irving",
+    "survived": "yes",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Foreman, Mr. Benjamin Laventall",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Fortune, Miss. Alice Elizabeth",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Fortune, Miss. Ethel Flora",
+    "survived": "yes",
+    "sex": "female",
+    "age": 28,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Fortune, Miss. Mabel Helen",
+    "survived": "yes",
+    "sex": "female",
+    "age": 23,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Fortune, Mr. Charles Alexander",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Fortune, Mr. Mark",
+    "survived": "no",
+    "sex": "male",
+    "age": 64,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Fortune, Mrs. Mark (Mary McDoug",
+    "survived": "yes",
+    "sex": "female",
+    "age": 60,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Francatelli, Miss. Laura Mabel",
+    "survived": "yes",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Franklin, Mr. Thomas Parham",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Frauenthal, Dr. Henry William",
+    "survived": "yes",
+    "sex": "male",
+    "age": 50,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Frauenthal, Mr. Isaac Gerald",
+    "survived": "yes",
+    "sex": "male",
+    "age": 43,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Frauenthal, Mrs. Henry William",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Frolicher, Miss. Hedwig Margari",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Frolicher-Stehli, Mr. Maxmillia",
+    "survived": "yes",
+    "sex": "male",
+    "age": 60,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Frolicher-Stehli, Mrs. Maxmilli",
+    "survived": "yes",
+    "sex": "female",
+    "age": 48,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Fry, Mr. Richard",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Futrelle, Mr. Jacques Heath",
+    "survived": "no",
+    "sex": "male",
+    "age": 37,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Futrelle, Mrs. Jacques Heath (L",
+    "survived": "yes",
+    "sex": "female",
+    "age": 35,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Gee, Mr. Arthur H",
+    "survived": "no",
+    "sex": "male",
+    "age": 47,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Geiger, Miss. Amalie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 35,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Gibson, Miss. Dorothy Winifred",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Gibson, Mrs. Leonard (Pauline C",
+    "survived": "yes",
+    "sex": "female",
+    "age": 45,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Giglio, Mr. Victor",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Goldenberg, Mr. Samuel L",
+    "survived": "yes",
+    "sex": "male",
+    "age": 49,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Goldenberg, Mrs. Samuel L (Edwi",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Goldschmidt, Mr. George B",
+    "survived": "no",
+    "sex": "male",
+    "age": 71,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Gracie, Col. Archibald IV",
+    "survived": "yes",
+    "sex": "male",
+    "age": 53,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Graham, Miss. Margaret Edith",
+    "survived": "yes",
+    "sex": "female",
+    "age": 19,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Graham, Mr. George Edward",
+    "survived": "no",
+    "sex": "male",
+    "age": 38,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Graham, Mrs. William Thompson (",
+    "survived": "yes",
+    "sex": "female",
+    "age": 58,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Greenfield, Mr. William Bertram",
+    "survived": "yes",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Greenfield, Mrs. Leo David (Bla",
+    "survived": "yes",
+    "sex": "female",
+    "age": 45,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Guggenheim, Mr. Benjamin",
+    "survived": "no",
+    "sex": "male",
+    "age": 46,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Harder, Mr. George Achilles",
+    "survived": "yes",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Harder, Mrs. George Achilles (D",
+    "survived": "yes",
+    "sex": "female",
+    "age": 25,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Harper, Mr. Henry Sleeper",
+    "survived": "yes",
+    "sex": "male",
+    "age": 48,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Harper, Mrs. Henry Sleeper (Myn",
+    "survived": "yes",
+    "sex": "female",
+    "age": 49,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Harrington, Mr. Charles H",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Harris, Mr. Henry Birkhardt",
+    "survived": "no",
+    "sex": "male",
+    "age": 45,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Harris, Mrs. Henry Birkhardt (I",
+    "survived": "yes",
+    "sex": "female",
+    "age": 35,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Harrison, Mr. William",
+    "survived": "no",
+    "sex": "male",
+    "age": 40,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Hassab, Mr. Hammad",
+    "survived": "yes",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Hawksford, Mr. Walter James",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Hays, Miss. Margaret Bechstein",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Hays, Mr. Charles Melville",
+    "survived": "no",
+    "sex": "male",
+    "age": 55,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Hays, Mrs. Charles Melville (Cl",
+    "survived": "yes",
+    "sex": "female",
+    "age": 52,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Head, Mr. Christopher",
+    "survived": "no",
+    "sex": "male",
+    "age": 42,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Hilliard, Mr. Herbert Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Hipkins, Mr. William Edward",
+    "survived": "no",
+    "sex": "male",
+    "age": 55,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Hippach, Miss. Jean Gertrude",
+    "survived": "yes",
+    "sex": "female",
+    "age": 16,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Hippach, Mrs. Louis Albert (Ida",
+    "survived": "yes",
+    "sex": "female",
+    "age": 44,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Hogeboom, Mrs. John C (Anna And",
+    "survived": "yes",
+    "sex": "female",
+    "age": 51,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Holverson, Mr. Alexander Oskar",
+    "survived": "no",
+    "sex": "male",
+    "age": 42,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Holverson, Mrs. Alexander Oskar",
+    "survived": "yes",
+    "sex": "female",
+    "age": 35,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Homer, Mr. Harry (Mr E Haven)",
+    "survived": "yes",
+    "sex": "male",
+    "age": 35,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Hoyt, Mr. Frederick Maxfield",
+    "survived": "yes",
+    "sex": "male",
+    "age": 38,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Hoyt, Mr. William Fisher",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Hoyt, Mrs. Frederick Maxfield (",
+    "survived": "yes",
+    "sex": "female",
+    "age": 35,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Icard, Miss. Amelie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 38,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Isham, Miss. Ann Elizabeth",
+    "survived": "no",
+    "sex": "female",
+    "age": 50,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Ismay, Mr. Joseph Bruce",
+    "survived": "yes",
+    "sex": "male",
+    "age": 49,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Jones, Mr. Charles Cresson",
+    "survived": "no",
+    "sex": "male",
+    "age": 46,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Julian, Mr. Henry Forbes",
+    "survived": "no",
+    "sex": "male",
+    "age": 50,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Keeping, Mr. Edwin",
+    "survived": "no",
+    "sex": "male",
+    "age": 32.5,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Kent, Mr. Edward Austin",
+    "survived": "no",
+    "sex": "male",
+    "age": 58,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Kenyon, Mr. Frederick R",
+    "survived": "no",
+    "sex": "male",
+    "age": 41,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Kenyon, Mrs. Frederick R (Mario",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Kimball, Mr. Edwin Nelson Jr",
+    "survived": "yes",
+    "sex": "male",
+    "age": 42,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Kimball, Mrs. Edwin Nelson Jr (",
+    "survived": "yes",
+    "sex": "female",
+    "age": 45,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Klaber, Mr. Herman",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Kreuchen, Miss. Emilie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 39,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Leader, Dr. Alice (Farnham)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 49,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "LeRoy, Miss. Bertha",
+    "survived": "yes",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Lesurer, Mr. Gustave J",
+    "survived": "yes",
+    "sex": "male",
+    "age": 35,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Lewy, Mr. Ervin G",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Lindeberg-Lind, Mr. Erik Gustaf",
+    "survived": "no",
+    "sex": "male",
+    "age": 42,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Lindstrom, Mrs. Carl Johan (Sig",
+    "survived": "yes",
+    "sex": "female",
+    "age": 55,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Lines, Miss. Mary Conover",
+    "survived": "yes",
+    "sex": "female",
+    "age": 16,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Lines, Mrs. Ernest H (Elizabeth",
+    "survived": "yes",
+    "sex": "female",
+    "age": 51,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Long, Mr. Milton Clyde",
+    "survived": "no",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Longley, Miss. Gretchen Fiske",
+    "survived": "yes",
+    "sex": "female",
+    "age": 21,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Loring, Mr. Joseph Holland",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Lurette, Miss. Elise",
+    "survived": "yes",
+    "sex": "female",
+    "age": 58,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Madill, Miss. Georgette Alexand",
+    "survived": "yes",
+    "sex": "female",
+    "age": 15,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Maguire, Mr. John Edward",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Maioni, Miss. Roberta",
+    "survived": "yes",
+    "sex": "female",
+    "age": 16,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Marechal, Mr. Pierre",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Marvin, Mr. Daniel Warner",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Marvin, Mrs. Daniel Warner (Mar",
+    "survived": "yes",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Mayne, Mlle. Berthe Antonine (",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "McCaffry, Mr. Thomas Francis",
+    "survived": "no",
+    "sex": "male",
+    "age": 46,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "McCarthy, Mr. Timothy J",
+    "survived": "no",
+    "sex": "male",
+    "age": 54,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "McGough, Mr. James Robert",
+    "survived": "yes",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Meyer, Mr. Edgar Joseph",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Meyer, Mrs. Edgar Joseph (Leila",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Millet, Mr. Francis Davis",
+    "survived": "no",
+    "sex": "male",
+    "age": 65,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Minahan, Dr. William Edward",
+    "survived": "no",
+    "sex": "male",
+    "age": 44,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Minahan, Miss. Daisy E",
+    "survived": "yes",
+    "sex": "female",
+    "age": 33,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Minahan, Mrs. William Edward (L",
+    "survived": "yes",
+    "sex": "female",
+    "age": 37,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Mock, Mr. Philipp Edmund",
+    "survived": "yes",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Molson, Mr. Harry Markland",
+    "survived": "no",
+    "sex": "male",
+    "age": 55,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Moore, Mr. Clarence Bloomfield",
+    "survived": "no",
+    "sex": "male",
+    "age": 47,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Natsch, Mr. Charles H",
+    "survived": "no",
+    "sex": "male",
+    "age": 37,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Newell, Miss. Madeleine",
+    "survived": "yes",
+    "sex": "female",
+    "age": 31,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Newell, Miss. Marjorie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 23,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Newell, Mr. Arthur Webster",
+    "survived": "no",
+    "sex": "male",
+    "age": 58,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Newsom, Miss. Helen Monypeny",
+    "survived": "yes",
+    "sex": "female",
+    "age": 19,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Nicholson, Mr. Arthur Ernest",
+    "survived": "no",
+    "sex": "male",
+    "age": 64,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Oliva y Ocana, Dona. Fermina",
+    "survived": "yes",
+    "sex": "female",
+    "age": 39,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Omont, Mr. Alfred Fernand",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Ostby, Miss. Helene Ragnhild",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Ostby, Mr. Engelhart Cornelius",
+    "survived": "no",
+    "sex": "male",
+    "age": 65,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Ovies y Rodriguez, Mr. Servando",
+    "survived": "no",
+    "sex": "male",
+    "age": 28.5,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Parr, Mr. William Henry Marsh",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Partner, Mr. Austen",
+    "survived": "no",
+    "sex": "male",
+    "age": 45.5,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Payne, Mr. Vivian Ponsonby",
+    "survived": "no",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Pears, Mr. Thomas Clinton",
+    "survived": "no",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Pears, Mrs. Thomas (Edith Wearn",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Penasco y Castellana, Mr. Victo",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Penasco y Castellana, Mrs. Vict",
+    "survived": "yes",
+    "sex": "female",
+    "age": 17,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Perreault, Miss. Anne",
+    "survived": "yes",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Peuchen, Major. Arthur Godfrey",
+    "survived": "yes",
+    "sex": "male",
+    "age": 52,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Porter, Mr. Walter Chamberlain",
+    "survived": "no",
+    "sex": "male",
+    "age": 47,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Potter, Mrs. Thomas Jr (Lily Al",
+    "survived": "yes",
+    "sex": "female",
+    "age": 56,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Reuchlin, Jonkheer. John George",
+    "survived": "no",
+    "sex": "male",
+    "age": 38,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Rheims, Mr. George Alexander Lu",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Ringhini, Mr. Sante",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Robbins, Mr. Victor",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Robert, Mrs. Edward Scott (Elis",
+    "survived": "yes",
+    "sex": "female",
+    "age": 43,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Roebling, Mr. Washington August",
+    "survived": "no",
+    "sex": "male",
+    "age": 31,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Romaine, Mr. Charles Hallace (",
+    "survived": "yes",
+    "sex": "male",
+    "age": 45,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Rood, Mr. Hugh Roscoe",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Rosenbaum, Miss. Edith Louise",
+    "survived": "yes",
+    "sex": "female",
+    "age": 33,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Rosenshine, Mr. George (Mr Geo",
+    "survived": "no",
+    "sex": "male",
+    "age": 46,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Ross, Mr. John Hugo",
+    "survived": "no",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Rothes, the Countess. of (Lucy",
+    "survived": "yes",
+    "sex": "female",
+    "age": 33,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Rothschild, Mr. Martin",
+    "survived": "no",
+    "sex": "male",
+    "age": 55,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Rothschild, Mrs. Martin (Elizab",
+    "survived": "yes",
+    "sex": "female",
+    "age": 54,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Rowe, Mr. Alfred G",
+    "survived": "no",
+    "sex": "male",
+    "age": 33,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Ryerson, Master. John Borie",
+    "survived": "yes",
+    "sex": "male",
+    "age": 13,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Ryerson, Miss. Emily Borie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Ryerson, Miss. Susan Parker Su",
+    "survived": "yes",
+    "sex": "female",
+    "age": 21,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Ryerson, Mr. Arthur Larned",
+    "survived": "no",
+    "sex": "male",
+    "age": 61,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Ryerson, Mrs. Arthur Larned (Em",
+    "survived": "yes",
+    "sex": "female",
+    "age": 48,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Saalfeld, Mr. Adolphe",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Sagesser, Mlle. Emma",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Salomon, Mr. Abraham L",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Schabert, Mrs. Paul (Emma Mock)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 35,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Serepeca, Miss. Augusta",
+    "survived": "yes",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Seward, Mr. Frederic Kimber",
+    "survived": "yes",
+    "sex": "male",
+    "age": 34,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Shutes, Miss. Elizabeth W",
+    "survived": "yes",
+    "sex": "female",
+    "age": 40,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Silverthorne, Mr. Spencer Victo",
+    "survived": "yes",
+    "sex": "male",
+    "age": 35,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Silvey, Mr. William Baird",
+    "survived": "no",
+    "sex": "male",
+    "age": 50,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Silvey, Mrs. William Baird (Ali",
+    "survived": "yes",
+    "sex": "female",
+    "age": 39,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Simonius-Blumer, Col. Oberst Al",
+    "survived": "yes",
+    "sex": "male",
+    "age": 56,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Sloper, Mr. William Thompson",
+    "survived": "yes",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Smart, Mr. John Montgomery",
+    "survived": "no",
+    "sex": "male",
+    "age": 56,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Smith, Mr. James Clinch",
+    "survived": "no",
+    "sex": "male",
+    "age": 56,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Smith, Mr. Lucien Philip",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Smith, Mr. Richard William",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Smith, Mrs. Lucien Philip (Mary",
+    "survived": "yes",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Snyder, Mr. John Pillsbury",
+    "survived": "yes",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Snyder, Mrs. John Pillsbury (Ne",
+    "survived": "yes",
+    "sex": "female",
+    "age": 23,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Spedden, Master. Robert Douglas",
+    "survived": "yes",
+    "sex": "male",
+    "age": 6,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Spedden, Mr. Frederic Oakley",
+    "survived": "yes",
+    "sex": "male",
+    "age": 45,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Spedden, Mrs. Frederic Oakley (",
+    "survived": "yes",
+    "sex": "female",
+    "age": 40,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Spencer, Mr. William Augustus",
+    "survived": "no",
+    "sex": "male",
+    "age": 57,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Spencer, Mrs. William Augustus",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Stahelin-Maeglin, Dr. Max",
+    "survived": "yes",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Stead, Mr. William Thomas",
+    "survived": "no",
+    "sex": "male",
+    "age": 62,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Stengel, Mr. Charles Emil Henry",
+    "survived": "yes",
+    "sex": "male",
+    "age": 54,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Stengel, Mrs. Charles Emil Henr",
+    "survived": "yes",
+    "sex": "female",
+    "age": 43,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Stephenson, Mrs. Walter Bertram",
+    "survived": "yes",
+    "sex": "female",
+    "age": 52,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Stewart, Mr. Albert A",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Stone, Mrs. George Nelson (Mart",
+    "survived": "yes",
+    "sex": "female",
+    "age": 62,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Straus, Mr. Isidor",
+    "survived": "no",
+    "sex": "male",
+    "age": 67,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Straus, Mrs. Isidor (Rosalie Id",
+    "survived": "no",
+    "sex": "female",
+    "age": 63,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Sutton, Mr. Frederick",
+    "survived": "no",
+    "sex": "male",
+    "age": 61,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Swift, Mrs. Frederick Joel (Mar",
+    "survived": "yes",
+    "sex": "female",
+    "age": 48,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Taussig, Miss. Ruth",
+    "survived": "yes",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Taussig, Mr. Emil",
+    "survived": "no",
+    "sex": "male",
+    "age": 52,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Taussig, Mrs. Emil (Tillie Mand",
+    "survived": "yes",
+    "sex": "female",
+    "age": 39,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Taylor, Mr. Elmer Zebley",
+    "survived": "yes",
+    "sex": "male",
+    "age": 48,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Taylor, Mrs. Elmer Zebley (Juli",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Thayer, Mr. John Borland",
+    "survived": "no",
+    "sex": "male",
+    "age": 49,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Thayer, Mr. John Borland Jr",
+    "survived": "yes",
+    "sex": "male",
+    "age": 17,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Thayer, Mrs. John Borland (Mari",
+    "survived": "yes",
+    "sex": "female",
+    "age": 39,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Thorne, Mrs. Gertrude Maybelle",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Tucker, Mr. Gilbert Milligan Jr",
+    "survived": "yes",
+    "sex": "male",
+    "age": 31,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Uruchurtu, Don. Manuel E",
+    "survived": "no",
+    "sex": "male",
+    "age": 40,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Van der hoef, Mr. Wyckoff",
+    "survived": "no",
+    "sex": "male",
+    "age": 61,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Walker, Mr. William Anderson",
+    "survived": "no",
+    "sex": "male",
+    "age": 47,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Ward, Miss. Anna",
+    "survived": "yes",
+    "sex": "female",
+    "age": 35,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Warren, Mr. Frank Manley",
+    "survived": "no",
+    "sex": "male",
+    "age": 64,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Warren, Mrs. Frank Manley (Anna",
+    "survived": "yes",
+    "sex": "female",
+    "age": 60,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Weir, Col. John",
+    "survived": "no",
+    "sex": "male",
+    "age": 60,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "White, Mr. Percival Wayland",
+    "survived": "no",
+    "sex": "male",
+    "age": 54,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "White, Mr. Richard Frasar",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "White, Mrs. John Stuart (Ella H",
+    "survived": "yes",
+    "sex": "female",
+    "age": 55,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Wick, Miss. Mary Natalie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 31,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Wick, Mr. George Dennick",
+    "survived": "no",
+    "sex": "male",
+    "age": 57,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Wick, Mrs. George Dennick (Mary",
+    "survived": "yes",
+    "sex": "female",
+    "age": 45,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Widener, Mr. George Dunton",
+    "survived": "no",
+    "sex": "male",
+    "age": 50,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Widener, Mr. Harry Elkins",
+    "survived": "no",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Widener, Mrs. George Dunton (El",
+    "survived": "yes",
+    "sex": "female",
+    "age": 50,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Willard, Miss. Constance",
+    "survived": "yes",
+    "sex": "female",
+    "age": 21,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Williams, Mr. Charles Duane",
+    "survived": "no",
+    "sex": "male",
+    "age": 51,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Williams, Mr. Richard Norris II",
+    "survived": "yes",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Williams-Lambert, Mr. Fletcher",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Wilson, Miss. Helen Alice",
+    "survived": "yes",
+    "sex": "female",
+    "age": 31,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Woolner, Mr. Hugh",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Wright, Mr. George",
+    "survived": "no",
+    "sex": "male",
+    "age": 62,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Young, Miss. Marie Grice",
+    "survived": "yes",
+    "sex": "female",
+    "age": 36,
+    "passengerClass": "1st"
+  },
+  {
+    "Name": "Abelson, Mr. Samuel",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Abelson, Mrs. Samuel (Hannah Wi",
+    "survived": "yes",
+    "sex": "female",
+    "age": 28,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Aldworth, Mr. Charles Augustus",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Andrew, Mr. Edgardo Samuel",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Andrew, Mr. Frank Thomas",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Angle, Mr. William A",
+    "survived": "no",
+    "sex": "male",
+    "age": 34,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Angle, Mrs. William A (Florence",
+    "survived": "yes",
+    "sex": "female",
+    "age": 36,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Ashby, Mr. John",
+    "survived": "no",
+    "sex": "male",
+    "age": 57,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Bailey, Mr. Percy Andrew",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Baimbrigge, Mr. Charles Robert",
+    "survived": "no",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Ball, Mrs. (Ada E Hall)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 36,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Banfield, Mr. Frederick James",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Bateman, Rev. Robert James",
+    "survived": "no",
+    "sex": "male",
+    "age": 51,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Beane, Mr. Edward",
+    "survived": "yes",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Beane, Mrs. Edward (Ethel Clark",
+    "survived": "yes",
+    "sex": "female",
+    "age": 19,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Beauchamp, Mr. Henry James",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Becker, Master. Richard F",
+    "survived": "yes",
+    "sex": "male",
+    "age": 1,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Becker, Miss. Marion Louise",
+    "survived": "yes",
+    "sex": "female",
+    "age": 4,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Becker, Miss. Ruth Elizabeth",
+    "survived": "yes",
+    "sex": "female",
+    "age": 12,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Becker, Mrs. Allen Oliver (Nell",
+    "survived": "yes",
+    "sex": "female",
+    "age": 36,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Beesley, Mr. Lawrence",
+    "survived": "yes",
+    "sex": "male",
+    "age": 34,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Bentham, Miss. Lilian W",
+    "survived": "yes",
+    "sex": "female",
+    "age": 19,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Berriman, Mr. William John",
+    "survived": "no",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Botsford, Mr. William Hull",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Bowenur, Mr. Solomon",
+    "survived": "no",
+    "sex": "male",
+    "age": 42,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Bracken, Mr. James H",
+    "survived": "no",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Brown, Miss. Amelia Mildred",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Brown, Miss. Edith Eileen",
+    "survived": "yes",
+    "sex": "female",
+    "age": 15,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Brown, Mr. Thomas William Solom",
+    "survived": "no",
+    "sex": "male",
+    "age": 60,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Brown, Mrs. Thomas William Solo",
+    "survived": "yes",
+    "sex": "female",
+    "age": 40,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Bryhl, Miss. Dagmar Jenny Ingeb",
+    "survived": "yes",
+    "sex": "female",
+    "age": 20,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Bryhl, Mr. Kurt Arnold Gottfrid",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Buss, Miss. Kate",
+    "survived": "yes",
+    "sex": "female",
+    "age": 36,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Butler, Mr. Reginald Fenton",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Byles, Rev. Thomas Roussel Davi",
+    "survived": "no",
+    "sex": "male",
+    "age": 42,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Bystrom, Mrs. (Karolina)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 42,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Caldwell, Master. Alden Gates",
+    "survived": "yes",
+    "sex": "male",
+    "age": 0.833299994,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Caldwell, Mr. Albert Francis",
+    "survived": "yes",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Caldwell, Mrs. Albert Francis (",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Cameron, Miss. Clear Annie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 35,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Campbell, Mr. William",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Carbines, Mr. William",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Carter, Mrs. Ernest Courtenay (",
+    "survived": "no",
+    "sex": "female",
+    "age": 44,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Carter, Rev. Ernest Courtenay",
+    "survived": "no",
+    "sex": "male",
+    "age": 54,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Chapman, Mr. Charles Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": 52,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Chapman, Mr. John Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": 37,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Chapman, Mrs. John Henry (Sara",
+    "survived": "no",
+    "sex": "female",
+    "age": 29,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Christy, Miss. Julie Rachel",
+    "survived": "yes",
+    "sex": "female",
+    "age": 25,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Christy, Mrs. (Alice Frances)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 45,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Clarke, Mr. Charles Valentine",
+    "survived": "no",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Clarke, Mrs. Charles V (Ada Mar",
+    "survived": "yes",
+    "sex": "female",
+    "age": 28,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Coleridge, Mr. Reginald Charles",
+    "survived": "no",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Collander, Mr. Erik Gustaf",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Collett, Mr. Sidney C Stuart",
+    "survived": "yes",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Collyer, Miss. Marjorie Lottie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 8,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Collyer, Mr. Harvey",
+    "survived": "no",
+    "sex": "male",
+    "age": 31,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Collyer, Mrs. Harvey (Charlotte",
+    "survived": "yes",
+    "sex": "female",
+    "age": 31,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Cook, Mrs. (Selena Rogers)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Corbett, Mrs. Walter H (Irene C",
+    "survived": "no",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Corey, Mrs. Percy C (Mary Phyll",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Cotterill, Mr. Henry Harry",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Cunningham, Mr. Alfred Fleming",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Davies, Master. John Morgan Jr",
+    "survived": "yes",
+    "sex": "male",
+    "age": 8,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Davies, Mr. Charles Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Davies, Mrs. John Morgan (Eliza",
+    "survived": "yes",
+    "sex": "female",
+    "age": 48,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Davis, Miss. Mary",
+    "survived": "yes",
+    "sex": "female",
+    "age": 28,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "de Brito, Mr. Jose Joaquim",
+    "survived": "no",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Deacon, Mr. Percy William",
+    "survived": "no",
+    "sex": "male",
+    "age": 17,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "del Carlo, Mr. Sebastiano",
+    "survived": "no",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "del Carlo, Mrs. Sebastiano (Arg",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Denbury, Mr. Herbert",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Dibden, Mr. William",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Doling, Miss. Elsie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Doling, Mrs. John T (Ada Julia",
+    "survived": "yes",
+    "sex": "female",
+    "age": 34,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Downton, Mr. William James",
+    "survived": "no",
+    "sex": "male",
+    "age": 54,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Drew, Master. Marshall Brines",
+    "survived": "yes",
+    "sex": "male",
+    "age": 8,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Drew, Mr. James Vivian",
+    "survived": "no",
+    "sex": "male",
+    "age": 42,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Drew, Mrs. James Vivian (Lulu T",
+    "survived": "yes",
+    "sex": "female",
+    "age": 34,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Duran y More, Miss. Asuncion",
+    "survived": "yes",
+    "sex": "female",
+    "age": 27,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Duran y More, Miss. Florentina",
+    "survived": "yes",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Eitemiller, Mr. George Floyd",
+    "survived": "no",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Enander, Mr. Ingvar",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Fahlstrom, Mr. Arne Jonas",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Faunthorpe, Mr. Harry",
+    "survived": "no",
+    "sex": "male",
+    "age": 40,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Faunthorpe, Mrs. Lizzie (Elizab",
+    "survived": "yes",
+    "sex": "female",
+    "age": 29,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Fillbrook, Mr. Joseph Charles",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Fox, Mr. Stanley Hubert",
+    "survived": "no",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Frost, Mr. Anthony Wood Archie",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Funk, Miss. Annie Clemmer",
+    "survived": "no",
+    "sex": "female",
+    "age": 38,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Fynney, Mr. Joseph J",
+    "survived": "no",
+    "sex": "male",
+    "age": 35,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Gale, Mr. Harry",
+    "survived": "no",
+    "sex": "male",
+    "age": 38,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Gale, Mr. Shadrach",
+    "survived": "no",
+    "sex": "male",
+    "age": 34,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Garside, Miss. Ethel",
+    "survived": "yes",
+    "sex": "female",
+    "age": 34,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Gaskell, Mr. Alfred",
+    "survived": "no",
+    "sex": "male",
+    "age": 16,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Gavey, Mr. Lawrence",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Gilbert, Mr. William",
+    "survived": "no",
+    "sex": "male",
+    "age": 47,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Giles, Mr. Edgar",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Giles, Mr. Frederick Edward",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Giles, Mr. Ralph",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Gill, Mr. John William",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Gillespie, Mr. William Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": 34,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Givard, Mr. Hans Kristensen",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Greenberg, Mr. Samuel",
+    "survived": "no",
+    "sex": "male",
+    "age": 52,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hale, Mr. Reginald",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hamalainen, Master. Viljo",
+    "survived": "yes",
+    "sex": "male",
+    "age": 0.666700006,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hamalainen, Mrs. William (Anna)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Harbeck, Mr. William H",
+    "survived": "no",
+    "sex": "male",
+    "age": 44,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Harper, Miss. Annie Jessie Nin",
+    "survived": "yes",
+    "sex": "female",
+    "age": 6,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Harper, Rev. John",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Harris, Mr. George",
+    "survived": "yes",
+    "sex": "male",
+    "age": 62,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Harris, Mr. Walter",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hart, Miss. Eva Miriam",
+    "survived": "yes",
+    "sex": "female",
+    "age": 7,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hart, Mr. Benjamin",
+    "survived": "no",
+    "sex": "male",
+    "age": 43,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hart, Mrs. Benjamin (Esther Ada",
+    "survived": "yes",
+    "sex": "female",
+    "age": 45,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Herman, Miss. Alice",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Herman, Miss. Kate",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Herman, Mr. Samuel",
+    "survived": "no",
+    "sex": "male",
+    "age": 49,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Herman, Mrs. Samuel (Jane Laver",
+    "survived": "yes",
+    "sex": "female",
+    "age": 48,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hewlett, Mrs. (Mary D Kingcome)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 55,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hickman, Mr. Leonard Mark",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hickman, Mr. Lewis",
+    "survived": "no",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hickman, Mr. Stanley George",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hiltunen, Miss. Marta",
+    "survived": "no",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hocking, Miss. Ellen Nellie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 20,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hocking, Mr. Richard George",
+    "survived": "no",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hocking, Mr. Samuel James Metca",
+    "survived": "no",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hocking, Mrs. Elizabeth (Eliza",
+    "survived": "yes",
+    "sex": "female",
+    "age": 54,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hodges, Mr. Henry Price",
+    "survived": "no",
+    "sex": "male",
+    "age": 50,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hold, Mr. Stephen",
+    "survived": "no",
+    "sex": "male",
+    "age": 44,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hold, Mrs. Stephen (Annie Marga",
+    "survived": "yes",
+    "sex": "female",
+    "age": 29,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hood, Mr. Ambrose Jr",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hosono, Mr. Masabumi",
+    "survived": "yes",
+    "sex": "male",
+    "age": 42,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Howard, Mr. Benjamin",
+    "survived": "no",
+    "sex": "male",
+    "age": 63,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Howard, Mrs. Benjamin (Ellen Tr",
+    "survived": "no",
+    "sex": "female",
+    "age": 60,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Hunt, Mr. George Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": 33,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Ilett, Miss. Bertha",
+    "survived": "yes",
+    "sex": "female",
+    "age": 17,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Jacobsohn, Mr. Sidney Samuel",
+    "survived": "no",
+    "sex": "male",
+    "age": 42,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Jacobsohn, Mrs. Sidney Samuel (",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Jarvis, Mr. John Denzil",
+    "survived": "no",
+    "sex": "male",
+    "age": 47,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Jefferys, Mr. Clifford Thomas",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Jefferys, Mr. Ernest Wilfred",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Jenkin, Mr. Stephen Curnow",
+    "survived": "no",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Jerwan, Mrs. Amin S (Marie Mart",
+    "survived": "yes",
+    "sex": "female",
+    "age": 23,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Kantor, Mr. Sinai",
+    "survived": "no",
+    "sex": "male",
+    "age": 34,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Kantor, Mrs. Sinai (Miriam Ster",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Karnes, Mrs. J Frank (Claire Be",
+    "survived": "no",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Keane, Miss. Nora A",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Keane, Mr. Daniel",
+    "survived": "no",
+    "sex": "male",
+    "age": 35,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Kelly, Mrs. Florence Fannie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 45,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Kirkland, Rev. Charles Leonard",
+    "survived": "no",
+    "sex": "male",
+    "age": 57,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Knight, Mr. Robert J",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Kvillner, Mr. Johan Henrik Joha",
+    "survived": "no",
+    "sex": "male",
+    "age": 31,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Lahtinen, Mrs. William (Anna Sy",
+    "survived": "no",
+    "sex": "female",
+    "age": 26,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Lahtinen, Rev. William",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Lamb, Mr. John Joseph",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Laroche, Miss. Louise",
+    "survived": "yes",
+    "sex": "female",
+    "age": 1,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Laroche, Miss. Simonne Marie An",
+    "survived": "yes",
+    "sex": "female",
+    "age": 3,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Laroche, Mr. Joseph Philippe Le",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Laroche, Mrs. Joseph (Juliette",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Lehmann, Miss. Bertha",
+    "survived": "yes",
+    "sex": "female",
+    "age": 17,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Leitch, Miss. Jessie Wills",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Lemore, Mrs. (Amelia Milley)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 34,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Levy, Mr. Rene Jacques",
+    "survived": "no",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Leyson, Mr. Robert William Norm",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Lingane, Mr. John",
+    "survived": "no",
+    "sex": "male",
+    "age": 61,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Louch, Mr. Charles Alexander",
+    "survived": "no",
+    "sex": "male",
+    "age": 50,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Louch, Mrs. Charles Alexander (",
+    "survived": "yes",
+    "sex": "female",
+    "age": 42,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Mack, Mrs. (Mary)",
+    "survived": "no",
+    "sex": "female",
+    "age": 57,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Malachard, Mr. Noel",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Mallet, Master. Andre",
+    "survived": "yes",
+    "sex": "male",
+    "age": 1,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Mallet, Mr. Albert",
+    "survived": "no",
+    "sex": "male",
+    "age": 31,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Mallet, Mrs. Albert (Antoinette",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Mangiavacchi, Mr. Serafino Emil",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Matthews, Mr. William John",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Maybery, Mr. Frank Hubert",
+    "survived": "no",
+    "sex": "male",
+    "age": 40,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "McCrae, Mr. Arthur Gordon",
+    "survived": "no",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "McCrie, Mr. James Matthew",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "McKane, Mr. Peter David",
+    "survived": "no",
+    "sex": "male",
+    "age": 46,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Mellinger, Miss. Madeleine Viol",
+    "survived": "yes",
+    "sex": "female",
+    "age": 13,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Mellinger, Mrs. (Elizabeth Anne",
+    "survived": "yes",
+    "sex": "female",
+    "age": 41,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Mellors, Mr. William John",
+    "survived": "yes",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Meyer, Mr. August",
+    "survived": "no",
+    "sex": "male",
+    "age": 39,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Milling, Mr. Jacob Christian",
+    "survived": "no",
+    "sex": "male",
+    "age": 48,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Mitchell, Mr. Henry Michael",
+    "survived": "no",
+    "sex": "male",
+    "age": 70,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Montvila, Rev. Juozas",
+    "survived": "no",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Moraweck, Dr. Ernest",
+    "survived": "no",
+    "sex": "male",
+    "age": 54,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Morley, Mr. Henry Samuel (Mr H",
+    "survived": "no",
+    "sex": "male",
+    "age": 39,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Mudd, Mr. Thomas Charles",
+    "survived": "no",
+    "sex": "male",
+    "age": 16,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Myles, Mr. Thomas Francis",
+    "survived": "no",
+    "sex": "male",
+    "age": 62,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Nasser, Mr. Nicholas",
+    "survived": "no",
+    "sex": "male",
+    "age": 32.5,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Nasser, Mrs. Nicholas (Adele Ac",
+    "survived": "yes",
+    "sex": "female",
+    "age": 14,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Navratil, Master. Edmond Roger",
+    "survived": "yes",
+    "sex": "male",
+    "age": 2,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Navratil, Master. Michel M",
+    "survived": "yes",
+    "sex": "male",
+    "age": 3,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Navratil, Mr. Michel (Louis M",
+    "survived": "no",
+    "sex": "male",
+    "age": 36.5,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Nesson, Mr. Israel",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Nicholls, Mr. Joseph Charles",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Norman, Mr. Robert Douglas",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Nourney, Mr. Alfred (Baron von",
+    "survived": "yes",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Nye, Mrs. (Elizabeth Ramell)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 29,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Otter, Mr. Richard",
+    "survived": "no",
+    "sex": "male",
+    "age": 39,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Oxenham, Mr. Percy Thomas",
+    "survived": "yes",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Padro y Manent, Mr. Julian",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Pain, Dr. Alfred",
+    "survived": "no",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Pallas y Castello, Mr. Emilio",
+    "survived": "yes",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Parker, Mr. Clifford Richard",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Parkes, Mr. Francis Frank",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Parrish, Mrs. (Lutie Davis)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 50,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Pengelly, Mr. Frederick William",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Pernot, Mr. Rene",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Peruschitz, Rev. Joseph Maria",
+    "survived": "no",
+    "sex": "male",
+    "age": 41,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Phillips, Miss. Alice Frances L",
+    "survived": "yes",
+    "sex": "female",
+    "age": 21,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Phillips, Miss. Kate Florence (",
+    "survived": "yes",
+    "sex": "female",
+    "age": 19,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Phillips, Mr. Escott Robert",
+    "survived": "no",
+    "sex": "male",
+    "age": 43,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Pinsky, Mrs. (Rosa)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 32,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Ponesell, Mr. Martin",
+    "survived": "no",
+    "sex": "male",
+    "age": 34,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Portaluppi, Mr. Emilio Ilario G",
+    "survived": "yes",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Pulbaum, Mr. Franz",
+    "survived": "no",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Quick, Miss. Phyllis May",
+    "survived": "yes",
+    "sex": "female",
+    "age": 2,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Quick, Miss. Winifred Vera",
+    "survived": "yes",
+    "sex": "female",
+    "age": 8,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Quick, Mrs. Frederick Charles (",
+    "survived": "yes",
+    "sex": "female",
+    "age": 33,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Reeves, Mr. David",
+    "survived": "no",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Renouf, Mr. Peter Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": 34,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Renouf, Mrs. Peter Henry (Lilli",
+    "survived": "yes",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Reynaldo, Ms. Encarnacion",
+    "survived": "yes",
+    "sex": "female",
+    "age": 28,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Richard, Mr. Emile",
+    "survived": "no",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Richards, Master. George Sibley",
+    "survived": "yes",
+    "sex": "male",
+    "age": 0.833299994,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Richards, Master. William Rowe",
+    "survived": "yes",
+    "sex": "male",
+    "age": 3,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Richards, Mrs. Sidney (Emily Ho",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Ridsdale, Miss. Lucy",
+    "survived": "yes",
+    "sex": "female",
+    "age": 50,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Rogers, Mr. Reginald Harry",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Rugg, Miss. Emily",
+    "survived": "yes",
+    "sex": "female",
+    "age": 21,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Schmidt, Mr. August",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Sedgwick, Mr. Charles Frederick",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Sharp, Mr. Percival James R",
+    "survived": "no",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Shelley, Mrs. William (Imanita",
+    "survived": "yes",
+    "sex": "female",
+    "age": 25,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Silven, Miss. Lyyli Karoliina",
+    "survived": "yes",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Sincock, Miss. Maude",
+    "survived": "yes",
+    "sex": "female",
+    "age": 20,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Sinkkonen, Miss. Anna",
+    "survived": "yes",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Sjostedt, Mr. Ernst Adolf",
+    "survived": "no",
+    "sex": "male",
+    "age": 59,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Slayter, Miss. Hilda Mary",
+    "survived": "yes",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Slemen, Mr. Richard James",
+    "survived": "no",
+    "sex": "male",
+    "age": 35,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Smith, Miss. Marion Elsie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 40,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Sobey, Mr. Samuel James Hayden",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Stanton, Mr. Samuel Ward",
+    "survived": "no",
+    "sex": "male",
+    "age": 41,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Stokes, Mr. Philip Joseph",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Swane, Mr. George",
+    "survived": "no",
+    "sex": "male",
+    "age": 18.5,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Sweet, Mr. George Frederick",
+    "survived": "no",
+    "sex": "male",
+    "age": 14,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Toomey, Miss. Ellen",
+    "survived": "yes",
+    "sex": "female",
+    "age": 50,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Troupiansky, Mr. Moses Aaron",
+    "survived": "no",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Trout, Mrs. William H (Jessie L",
+    "survived": "yes",
+    "sex": "female",
+    "age": 28,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Troutt, Miss. Edwina Celia Win",
+    "survived": "yes",
+    "sex": "female",
+    "age": 27,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Turpin, Mr. William John Robert",
+    "survived": "no",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Turpin, Mrs. William John Rober",
+    "survived": "no",
+    "sex": "female",
+    "age": 27,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Veal, Mr. James",
+    "survived": "no",
+    "sex": "male",
+    "age": 40,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Walcroft, Miss. Nellie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 31,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Ware, Mr. John James",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Ware, Mr. William Jeffery",
+    "survived": "no",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Ware, Mrs. John James (Florence",
+    "survived": "yes",
+    "sex": "female",
+    "age": 31,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Watson, Mr. Ennis Hastings",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Watt, Miss. Bertha J",
+    "survived": "yes",
+    "sex": "female",
+    "age": 12,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Watt, Mrs. James (Elizabeth Be",
+    "survived": "yes",
+    "sex": "female",
+    "age": 40,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Webber, Miss. Susan",
+    "survived": "yes",
+    "sex": "female",
+    "age": 32.5,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Weisz, Mr. Leopold",
+    "survived": "no",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Weisz, Mrs. Leopold (Mathilde F",
+    "survived": "yes",
+    "sex": "female",
+    "age": 29,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Wells, Master. Ralph Lester",
+    "survived": "yes",
+    "sex": "male",
+    "age": 2,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Wells, Miss. Joan",
+    "survived": "yes",
+    "sex": "female",
+    "age": 4,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Wells, Mrs. Arthur Henry (Addi",
+    "survived": "yes",
+    "sex": "female",
+    "age": 29,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "West, Miss. Barbara J",
+    "survived": "yes",
+    "sex": "female",
+    "age": 0.916700006,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "West, Miss. Constance Mirium",
+    "survived": "yes",
+    "sex": "female",
+    "age": 5,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "West, Mr. Edwy Arthur",
+    "survived": "no",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "West, Mrs. Edwy Arthur (Ada Mar",
+    "survived": "yes",
+    "sex": "female",
+    "age": 33,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Wheadon, Mr. Edward H",
+    "survived": "no",
+    "sex": "male",
+    "age": 66,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Wheeler, Mr. Edwin Frederick",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Wilhelms, Mr. Charles",
+    "survived": "yes",
+    "sex": "male",
+    "age": 31,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Williams, Mr. Charles Eugene",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Wright, Miss. Marion",
+    "survived": "yes",
+    "sex": "female",
+    "age": 26,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Yrois, Miss. Henriette (Mrs Ha",
+    "survived": "no",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "2nd"
+  },
+  {
+    "Name": "Abbing, Mr. Anthony",
+    "survived": "no",
+    "sex": "male",
+    "age": 42,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Abbott, Master. Eugene Joseph",
+    "survived": "no",
+    "sex": "male",
+    "age": 13,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Abbott, Mr. Rossmore Edward",
+    "survived": "no",
+    "sex": "male",
+    "age": 16,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Abbott, Mrs. Stanton (Rosa Hunt",
+    "survived": "yes",
+    "sex": "female",
+    "age": 35,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Abelseth, Miss. Karen Marie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 16,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Abelseth, Mr. Olaus Jorgensen",
+    "survived": "yes",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Abrahamsson, Mr. Abraham August",
+    "survived": "yes",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Abrahim, Mrs. Joseph (Sophie Ha",
+    "survived": "yes",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Adahl, Mr. Mauritz Nils Martin",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Adams, Mr. John",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ahlin, Mrs. Johan (Johanna Pers",
+    "survived": "no",
+    "sex": "female",
+    "age": 40,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Aks, Master. Philip Frank",
+    "survived": "yes",
+    "sex": "male",
+    "age": 0.833299994,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Aks, Mrs. Sam (Leah Rosen)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Albimona, Mr. Nassef Cassem",
+    "survived": "yes",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Alexander, Mr. William",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Alhomaki, Mr. Ilmari Rudolf",
+    "survived": "no",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ali, Mr. Ahmed",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ali, Mr. William",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Allen, Mr. William Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": 35,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Allum, Mr. Owen George",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Andersen, Mr. Albert Karvin",
+    "survived": "no",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Andersen-Jensen, Miss. Carla Ch",
+    "survived": "yes",
+    "sex": "female",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Andersson, Master. Sigvard Hara",
+    "survived": "no",
+    "sex": "male",
+    "age": 4,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Andersson, Miss. Ebba Iris Alfr",
+    "survived": "no",
+    "sex": "female",
+    "age": 6,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Andersson, Miss. Ellis Anna Mar",
+    "survived": "no",
+    "sex": "female",
+    "age": 2,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Andersson, Miss. Erna Alexandra",
+    "survived": "yes",
+    "sex": "female",
+    "age": 17,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Andersson, Miss. Ida Augusta Ma",
+    "survived": "no",
+    "sex": "female",
+    "age": 38,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Andersson, Miss. Ingeborg Const",
+    "survived": "no",
+    "sex": "female",
+    "age": 9,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Andersson, Miss. Sigrid Elisabe",
+    "survived": "no",
+    "sex": "female",
+    "age": 11,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Andersson, Mr. Anders Johan",
+    "survived": "no",
+    "sex": "male",
+    "age": 39,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Andersson, Mr. August Edvard (",
+    "survived": "yes",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Andersson, Mr. Johan Samuel",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Andersson, Mrs. Anders Johan (A",
+    "survived": "no",
+    "sex": "female",
+    "age": 39,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Andreasson, Mr. Paul Edvin",
+    "survived": "no",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Angheloff, Mr. Minko",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Arnold-Franchi, Mr. Josef",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Arnold-Franchi, Mrs. Josef (Jos",
+    "survived": "no",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Aronsson, Mr. Ernst Axel Algot",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Asim, Mr. Adola",
+    "survived": "no",
+    "sex": "male",
+    "age": 35,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Asplund, Master. Carl Edgar",
+    "survived": "no",
+    "sex": "male",
+    "age": 5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Asplund, Master. Clarence Gusta",
+    "survived": "no",
+    "sex": "male",
+    "age": 9,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Asplund, Master. Edvin Rojj Fel",
+    "survived": "yes",
+    "sex": "male",
+    "age": 3,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Asplund, Master. Filip Oscar",
+    "survived": "no",
+    "sex": "male",
+    "age": 13,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Asplund, Miss. Lillian Gertrud",
+    "survived": "yes",
+    "sex": "female",
+    "age": 5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Asplund, Mr. Carl Oscar Vilhelm",
+    "survived": "no",
+    "sex": "male",
+    "age": 40,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Asplund, Mr. Johan Charles",
+    "survived": "yes",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Asplund, Mrs. Carl Oscar (Selma",
+    "survived": "yes",
+    "sex": "female",
+    "age": 38,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Assaf Khalil, Mrs. Mariana (Mi",
+    "survived": "yes",
+    "sex": "female",
+    "age": 45,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Assaf, Mr. Gerios",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Assam, Mr. Ali",
+    "survived": "no",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Attalah, Miss. Malake",
+    "survived": "no",
+    "sex": "female",
+    "age": 17,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Attalah, Mr. Sleiman",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Augustsson, Mr. Albert",
+    "survived": "no",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ayoub, Miss. Banoura",
+    "survived": "yes",
+    "sex": "female",
+    "age": 13,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Baccos, Mr. Raffull",
+    "survived": "no",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Backstrom, Mr. Karl Alfred",
+    "survived": "no",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Backstrom, Mrs. Karl Alfred (Ma",
+    "survived": "yes",
+    "sex": "female",
+    "age": 33,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Baclini, Miss. Eugenie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 0.75,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Baclini, Miss. Helene Barbara",
+    "survived": "yes",
+    "sex": "female",
+    "age": 0.75,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Baclini, Miss. Marie Catherine",
+    "survived": "yes",
+    "sex": "female",
+    "age": 5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Baclini, Mrs. Solomon (Latifa Q",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Badman, Miss. Emily Louisa",
+    "survived": "yes",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Badt, Mr. Mohamed",
+    "survived": "no",
+    "sex": "male",
+    "age": 40,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Balkic, Mr. Cerin",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Barah, Mr. Hanna Assi",
+    "survived": "yes",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Barbara, Miss. Saiide",
+    "survived": "no",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Barbara, Mrs. (Catherine David)",
+    "survived": "no",
+    "sex": "female",
+    "age": 45,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Barry, Miss. Julia",
+    "survived": "no",
+    "sex": "female",
+    "age": 27,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Barton, Mr. David John",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Beavan, Mr. William Thomas",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Bengtsson, Mr. John Viktor",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Berglund, Mr. Karl Ivar Sven",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Betros, Master. Seman",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Betros, Mr. Tannous",
+    "survived": "no",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Bing, Mr. Lee",
+    "survived": "yes",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Birkeland, Mr. Hans Martin Mons",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Bjorklund, Mr. Ernst Herbert",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Bostandyeff, Mr. Guentcho",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Boulos, Master. Akar",
+    "survived": "no",
+    "sex": "male",
+    "age": 6,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Boulos, Miss. Nourelain",
+    "survived": "no",
+    "sex": "female",
+    "age": 9,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Boulos, Mr. Hanna",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Boulos, Mrs. Joseph (Sultana)",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Bourke, Miss. Mary",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Bourke, Mr. John",
+    "survived": "no",
+    "sex": "male",
+    "age": 40,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Bourke, Mrs. John (Catherine)",
+    "survived": "no",
+    "sex": "female",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Bowen, Mr. David John Dai",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Bradley, Miss. Bridget Delia",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Braf, Miss. Elin Ester Maria",
+    "survived": "no",
+    "sex": "female",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Braund, Mr. Lewis Richard",
+    "survived": "no",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Braund, Mr. Owen Harris",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Brobeck, Mr. Karl Rudolf",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Brocklebank, Mr. William Alfred",
+    "survived": "no",
+    "sex": "male",
+    "age": 35,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Buckley, Miss. Katherine",
+    "survived": "no",
+    "sex": "female",
+    "age": 18.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Buckley, Mr. Daniel",
+    "survived": "yes",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Burke, Mr. Jeremiah",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Burns, Miss. Mary Delia",
+    "survived": "no",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Cacic, Miss. Manda",
+    "survived": "no",
+    "sex": "female",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Cacic, Miss. Marija",
+    "survived": "no",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Cacic, Mr. Jego Grga",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Cacic, Mr. Luka",
+    "survived": "no",
+    "sex": "male",
+    "age": 38,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Calic, Mr. Jovo",
+    "survived": "no",
+    "sex": "male",
+    "age": 17,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Calic, Mr. Petar",
+    "survived": "no",
+    "sex": "male",
+    "age": 17,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Canavan, Miss. Mary",
+    "survived": "no",
+    "sex": "female",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Canavan, Mr. Patrick",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Cann, Mr. Ernest Charles",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Caram, Mr. Joseph",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Caram, Mrs. Joseph (Maria Elias",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Carlsson, Mr. August Sigfrid",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Carlsson, Mr. Carl Robert",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Carr, Miss. Helen Ellen",
+    "survived": "yes",
+    "sex": "female",
+    "age": 16,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Carr, Miss. Jeannie",
+    "survived": "no",
+    "sex": "female",
+    "age": 37,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Carver, Mr. Alfred John",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Celotti, Mr. Francesco",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Charters, Mr. David",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Chip, Mr. Chang",
+    "survived": "yes",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Christmann, Mr. Emil",
+    "survived": "no",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Chronopoulos, Mr. Apostolos",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Chronopoulos, Mr. Demetrios",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Coelho, Mr. Domingos Fernandeo",
+    "survived": "no",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Cohen, Mr. Gurshon Gus",
+    "survived": "yes",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Colbert, Mr. Patrick",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Coleff, Mr. Peju",
+    "survived": "no",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Coleff, Mr. Satio",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Conlon, Mr. Thomas Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": 31,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Connaghton, Mr. Michael",
+    "survived": "no",
+    "sex": "male",
+    "age": 31,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Connolly, Miss. Kate (A)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Connolly, Miss. Kate (B)",
+    "survived": "no",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Connors, Mr. Patrick",
+    "survived": "no",
+    "sex": "male",
+    "age": 70.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Cook, Mr. Jacob",
+    "survived": "no",
+    "sex": "male",
+    "age": 43,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Cor, Mr. Bartol",
+    "survived": "no",
+    "sex": "male",
+    "age": 35,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Cor, Mr. Ivan",
+    "survived": "no",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Cor, Mr. Liudevit",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Corn, Mr. Harry",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Coutts, Master. Eden Leslie Ne",
+    "survived": "yes",
+    "sex": "male",
+    "age": 9,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Coutts, Master. William Loch W",
+    "survived": "yes",
+    "sex": "male",
+    "age": 3,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Coutts, Mrs. William (Winnie M",
+    "survived": "yes",
+    "sex": "female",
+    "age": 36,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Coxon, Mr. Daniel",
+    "survived": "no",
+    "sex": "male",
+    "age": 59,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Crease, Mr. Ernest James",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Cribb, Miss. Laura Alice",
+    "survived": "yes",
+    "sex": "female",
+    "age": 17,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Cribb, Mr. John Hatfield",
+    "survived": "no",
+    "sex": "male",
+    "age": 44,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Culumovic, Mr. Jeso",
+    "survived": "no",
+    "sex": "male",
+    "age": 17,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Daher, Mr. Shedid",
+    "survived": "no",
+    "sex": "male",
+    "age": 22.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dahl, Mr. Karl Edwart",
+    "survived": "yes",
+    "sex": "male",
+    "age": 45,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dahlberg, Miss. Gerda Ulrika",
+    "survived": "no",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dakic, Mr. Branko",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Daly, Miss. Margaret Marcella",
+    "survived": "yes",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Daly, Mr. Eugene Patrick",
+    "survived": "yes",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Danbom, Master. Gilbert Sigvard",
+    "survived": "no",
+    "sex": "male",
+    "age": 0.333299994,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Danbom, Mr. Ernst Gilbert",
+    "survived": "no",
+    "sex": "male",
+    "age": 34,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Danbom, Mrs. Ernst Gilbert (Ann",
+    "survived": "no",
+    "sex": "female",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Danoff, Mr. Yoto",
+    "survived": "no",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dantcheff, Mr. Ristiu",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Davies, Mr. Alfred J",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Davies, Mr. Evan",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Davies, Mr. John Samuel",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Davies, Mr. Joseph",
+    "survived": "no",
+    "sex": "male",
+    "age": 17,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Davison, Mr. Thomas Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Davison, Mrs. Thomas Henry (Mar",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "de Messemaeker, Mr. Guillaume J",
+    "survived": "yes",
+    "sex": "male",
+    "age": 36.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "de Messemaeker, Mrs. Guillaume",
+    "survived": "yes",
+    "sex": "female",
+    "age": 36,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "de Mulder, Mr. Theodore",
+    "survived": "yes",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "de Pelsmaeker, Mr. Alfons",
+    "survived": "no",
+    "sex": "male",
+    "age": 16,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dean, Master. Bertram Vere",
+    "survived": "yes",
+    "sex": "male",
+    "age": 1,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dean, Miss. Elizabeth Gladys M",
+    "survived": "yes",
+    "sex": "female",
+    "age": 0.166700006,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dean, Mr. Bertram Frank",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dean, Mrs. Bertram (Eva Georget",
+    "survived": "yes",
+    "sex": "female",
+    "age": 33,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Delalic, Mr. Redjo",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Demetri, Mr. Marinko",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Denkoff, Mr. Mitto",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dennis, Mr. Samuel",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dennis, Mr. William",
+    "survived": "no",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Devaney, Miss. Margaret Delia",
+    "survived": "yes",
+    "sex": "female",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dika, Mr. Mirko",
+    "survived": "no",
+    "sex": "male",
+    "age": 17,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dimic, Mr. Jovan",
+    "survived": "no",
+    "sex": "male",
+    "age": 42,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dintcheff, Mr. Valtcho",
+    "survived": "no",
+    "sex": "male",
+    "age": 43,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Doharr, Mr. Tannous",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dooley, Mr. Patrick",
+    "survived": "no",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dorking, Mr. Edward Arthur",
+    "survived": "yes",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dowdell, Miss. Elizabeth",
+    "survived": "yes",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Doyle, Miss. Elizabeth",
+    "survived": "no",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Drapkin, Miss. Jennie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 23,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Drazenoic, Mr. Jozef",
+    "survived": "no",
+    "sex": "male",
+    "age": 33,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Duane, Mr. Frank",
+    "survived": "no",
+    "sex": "male",
+    "age": 65,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Duquemin, Mr. Joseph",
+    "survived": "yes",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dyker, Mr. Adolf Fredrik",
+    "survived": "no",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Dyker, Mrs. Adolf Fredrik (Anna",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Edvardsson, Mr. Gustaf Hjalmar",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Eklund, Mr. Hans Linus",
+    "survived": "no",
+    "sex": "male",
+    "age": 16,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ekstrom, Mr. Johan",
+    "survived": "no",
+    "sex": "male",
+    "age": 45,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Elias, Mr. Dibo",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Elias, Mr. Joseph",
+    "survived": "no",
+    "sex": "male",
+    "age": 39,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Elias, Mr. Joseph Jr",
+    "survived": "no",
+    "sex": "male",
+    "age": 17,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Elias, Mr. Tannous",
+    "survived": "no",
+    "sex": "male",
+    "age": 15,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Elsbury, Mr. William James",
+    "survived": "no",
+    "sex": "male",
+    "age": 47,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Emanuel, Miss. Virginia Ethel",
+    "survived": "yes",
+    "sex": "female",
+    "age": 5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Emir, Mr. Farred Chehab",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Everett, Mr. Thomas James",
+    "survived": "no",
+    "sex": "male",
+    "age": 40.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Farrell, Mr. James",
+    "survived": "no",
+    "sex": "male",
+    "age": 40.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Finoli, Mr. Luigi",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Fischer, Mr. Eberhard Thelander",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Fleming, Miss. Honora",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Flynn, Mr. James",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Flynn, Mr. John",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Foley, Mr. Joseph",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Foley, Mr. William",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Foo, Mr. Choong",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ford, Miss. Doolina Margaret D",
+    "survived": "no",
+    "sex": "female",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ford, Miss. Robina Maggie Ruby",
+    "survived": "no",
+    "sex": "female",
+    "age": 9,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ford, Mr. Arthur",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ford, Mr. Edward Watson",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ford, Mr. William Neal",
+    "survived": "no",
+    "sex": "male",
+    "age": 16,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ford, Mrs. Edward (Margaret Ann",
+    "survived": "no",
+    "sex": "female",
+    "age": 48,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Fox, Mr. Patrick",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Franklin, Mr. Charles (Charles",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Gallagher, Mr. Martin",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Garfirth, Mr. John",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Gheorgheff, Mr. Stanio",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Gilinski, Mr. Eliezer",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Gilnagh, Miss. Katherine Katie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 16,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Glynn, Miss. Mary Agatha",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Goldsmith, Master. Frank John W",
+    "survived": "yes",
+    "sex": "male",
+    "age": 9,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Goldsmith, Mr. Frank John",
+    "survived": "no",
+    "sex": "male",
+    "age": 33,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Goldsmith, Mr. Nathan",
+    "survived": "no",
+    "sex": "male",
+    "age": 41,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Goldsmith, Mrs. Frank John (Emi",
+    "survived": "yes",
+    "sex": "female",
+    "age": 31,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Goncalves, Mr. Manuel Estanslas",
+    "survived": "no",
+    "sex": "male",
+    "age": 38,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Goodwin, Master. Harold Victor",
+    "survived": "no",
+    "sex": "male",
+    "age": 9,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Goodwin, Master. Sidney Leonard",
+    "survived": "no",
+    "sex": "male",
+    "age": 1,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Goodwin, Master. William Freder",
+    "survived": "no",
+    "sex": "male",
+    "age": 11,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Goodwin, Miss. Jessie Allis",
+    "survived": "no",
+    "sex": "female",
+    "age": 10,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Goodwin, Miss. Lillian Amy",
+    "survived": "no",
+    "sex": "female",
+    "age": 16,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Goodwin, Mr. Charles Edward",
+    "survived": "no",
+    "sex": "male",
+    "age": 14,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Goodwin, Mr. Charles Frederick",
+    "survived": "no",
+    "sex": "male",
+    "age": 40,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Goodwin, Mrs. Frederick (August",
+    "survived": "no",
+    "sex": "female",
+    "age": 43,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Green, Mr. George Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": 51,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Gronnestad, Mr. Daniel Danielse",
+    "survived": "no",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Guest, Mr. Robert",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Gustafsson, Mr. Alfred Ossian",
+    "survived": "no",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Gustafsson, Mr. Anders Vilhelm",
+    "survived": "no",
+    "sex": "male",
+    "age": 37,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Gustafsson, Mr. Johan Birger",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Gustafsson, Mr. Karl Gideon",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Haas, Miss. Aloisia",
+    "survived": "no",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hagardon, Miss. Kate",
+    "survived": "no",
+    "sex": "female",
+    "age": 17,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hagland, Mr. Ingvald Olai Olsen",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hagland, Mr. Konrad Mathias Rei",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hakkarainen, Mr. Pekka Pietari",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hakkarainen, Mrs. Pekka Pietari",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hampe, Mr. Leon",
+    "survived": "no",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hanna, Mr. Mansour",
+    "survived": "no",
+    "sex": "male",
+    "age": 23.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hansen, Mr. Claus Peter",
+    "survived": "no",
+    "sex": "male",
+    "age": 41,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hansen, Mr. Henrik Juul",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hansen, Mr. Henry Damsgaard",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hansen, Mrs. Claus Peter (Jenni",
+    "survived": "yes",
+    "sex": "female",
+    "age": 45,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Harknett, Miss. Alice Phoebe",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Harmer, Mr. Abraham (David Lish",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hart, Mr. Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hassan, Mr. Houssein G N",
+    "survived": "no",
+    "sex": "male",
+    "age": 11,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Healy, Miss. Hanora Nora",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hedman, Mr. Oskar Arvid",
+    "survived": "yes",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hee, Mr. Ling",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hegarty, Miss. Hanora Nora",
+    "survived": "no",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Heikkinen, Miss. Laina",
+    "survived": "yes",
+    "sex": "female",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Heininen, Miss. Wendla Maria",
+    "survived": "no",
+    "sex": "female",
+    "age": 23,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hellstrom, Miss. Hilda Maria",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hendekovic, Mr. Ignjac",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Henriksson, Miss. Jenny Lovisa",
+    "survived": "no",
+    "sex": "female",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Henry, Miss. Delia",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hirvonen, Miss. Hildur E",
+    "survived": "yes",
+    "sex": "female",
+    "age": 2,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hirvonen, Mrs. Alexander (Helga",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Holm, Mr. John Fredrik Alexande",
+    "survived": "no",
+    "sex": "male",
+    "age": 43,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Holthen, Mr. Johan Martin",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Honkanen, Miss. Eliina",
+    "survived": "yes",
+    "sex": "female",
+    "age": 27,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Horgan, Mr. John",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Howard, Miss. May Elizabeth",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Humblen, Mr. Adolf Mathias Nico",
+    "survived": "no",
+    "sex": "male",
+    "age": 42,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Hyman, Mr. Abraham",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ibrahim Shawah, Mr. Yousseff",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ilieff, Mr. Ylio",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ilmakangas, Miss. Ida Livija",
+    "survived": "no",
+    "sex": "female",
+    "age": 27,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ilmakangas, Miss. Pieta Sofia",
+    "survived": "no",
+    "sex": "female",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ivanoff, Mr. Kanio",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Jalsevac, Mr. Ivan",
+    "survived": "yes",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Jansson, Mr. Carl Olof",
+    "survived": "yes",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Jardin, Mr. Jose Neto",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Jensen, Mr. Hans Peder",
+    "survived": "no",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Jensen, Mr. Niels Peder",
+    "survived": "no",
+    "sex": "male",
+    "age": 48,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Jensen, Mr. Svend Lauritz",
+    "survived": "no",
+    "sex": "male",
+    "age": 17,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Jermyn, Miss. Annie",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johannesen-Bratthammer, Mr. Ber",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johanson, Mr. Jakob Alfred",
+    "survived": "no",
+    "sex": "male",
+    "age": 34,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johansson Palmquist, Mr. Oskar",
+    "survived": "yes",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johansson, Mr. Erik",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johansson, Mr. Gustaf Joel",
+    "survived": "no",
+    "sex": "male",
+    "age": 33,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johansson, Mr. Karl Johan",
+    "survived": "no",
+    "sex": "male",
+    "age": 31,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johansson, Mr. Nils",
+    "survived": "no",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johnson, Master. Harold Theodor",
+    "survived": "yes",
+    "sex": "male",
+    "age": 4,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johnson, Miss. Eleanor Ileen",
+    "survived": "yes",
+    "sex": "female",
+    "age": 1,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johnson, Mr. Alfred",
+    "survived": "no",
+    "sex": "male",
+    "age": 49,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johnson, Mr. Malkolm Joackim",
+    "survived": "no",
+    "sex": "male",
+    "age": 33,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johnson, Mr. William Cahoone Jr",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johnson, Mrs. Oscar W (Elisabet",
+    "survived": "yes",
+    "sex": "female",
+    "age": 27,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johnston, Master. William Arthu",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johnston, Miss. Catherine Helen",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johnston, Mr. Andrew G",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Johnston, Mrs. Andrew G (Elizab",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Jonkoff, Mr. Lalio",
+    "survived": "no",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Jonsson, Mr. Carl",
+    "survived": "yes",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Jonsson, Mr. Nils Hilding",
+    "survived": "no",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Jussila, Miss. Katriina",
+    "survived": "no",
+    "sex": "female",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Jussila, Miss. Mari Aina",
+    "survived": "no",
+    "sex": "female",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Jussila, Mr. Eiriik",
+    "survived": "yes",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kallio, Mr. Nikolai Erland",
+    "survived": "no",
+    "sex": "male",
+    "age": 17,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kalvik, Mr. Johannes Halvorsen",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Karaic, Mr. Milan",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Karlsson, Mr. Einar Gervasius",
+    "survived": "yes",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Karlsson, Mr. Julius Konrad Eug",
+    "survived": "no",
+    "sex": "male",
+    "age": 33,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Karlsson, Mr. Nils August",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Karun, Miss. Manca",
+    "survived": "yes",
+    "sex": "female",
+    "age": 4,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Karun, Mr. Franz",
+    "survived": "yes",
+    "sex": "male",
+    "age": 39,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kassem, Mr. Fared",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Katavelas, Mr. Vassilios (Cata",
+    "survived": "no",
+    "sex": "male",
+    "age": 18.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Keane, Mr. Andrew Andy",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Keefe, Mr. Arthur",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kelly, Miss. Anna Katherine An",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kelly, Miss. Mary",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kelly, Mr. James (A)",
+    "survived": "no",
+    "sex": "male",
+    "age": 34.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kelly, Mr. James (B)",
+    "survived": "no",
+    "sex": "male",
+    "age": 44,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kennedy, Mr. John",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Khalil, Mr. Betros",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Khalil, Mrs. Betros (Zahie Mar",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kiernan, Mr. John",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kiernan, Mr. Philip",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kilgannon, Mr. Thomas J",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kink, Miss. Maria",
+    "survived": "no",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kink, Mr. Vincenz",
+    "survived": "no",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kink-Heilmann, Miss. Luise Gret",
+    "survived": "yes",
+    "sex": "female",
+    "age": 4,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kink-Heilmann, Mr. Anton",
+    "survived": "yes",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kink-Heilmann, Mrs. Anton (Luis",
+    "survived": "yes",
+    "sex": "female",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Klasen, Miss. Gertrud Emilia",
+    "survived": "no",
+    "sex": "female",
+    "age": 1,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Klasen, Mr. Klas Albin",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Klasen, Mrs. (Hulda Kristina Eu",
+    "survived": "no",
+    "sex": "female",
+    "age": 36,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Kraeff, Mr. Theodor",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Krekorian, Mr. Neshan",
+    "survived": "yes",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lahoud, Mr. Sarkis",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Laitinen, Miss. Kristina Sofia",
+    "survived": "no",
+    "sex": "female",
+    "age": 37,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Laleff, Mr. Kristo",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lam, Mr. Ali",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lam, Mr. Len",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Landergren, Miss. Aurora Adelia",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lane, Mr. Patrick",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lang, Mr. Fang",
+    "survived": "yes",
+    "sex": "male",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Larsson, Mr. August Viktor",
+    "survived": "no",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Larsson, Mr. Bengt Edvin",
+    "survived": "no",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Larsson-Rondberg, Mr. Edvard A",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Leeni, Mr. Fahim (Philip Zenni",
+    "survived": "yes",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lefebre, Master. Henry Forbes",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lefebre, Miss. Ida",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lefebre, Miss. Jeannie",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lefebre, Miss. Mathilde",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lefebre, Mrs. Frank (Frances)",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Leinonen, Mr. Antti Gustaf",
+    "survived": "no",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lemberopolous, Mr. Peter L",
+    "survived": "no",
+    "sex": "male",
+    "age": 34.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lennon, Miss. Mary",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lennon, Mr. Denis",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Leonard, Mr. Lionel",
+    "survived": "no",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lester, Mr. James",
+    "survived": "no",
+    "sex": "male",
+    "age": 39,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lievens, Mr. Rene Aime",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lindahl, Miss. Agda Thorilda Vi",
+    "survived": "no",
+    "sex": "female",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lindblom, Miss. Augusta Charlot",
+    "survived": "no",
+    "sex": "female",
+    "age": 45,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lindell, Mr. Edvard Bengtsson",
+    "survived": "no",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lindell, Mrs. Edvard Bengtsson",
+    "survived": "no",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lindqvist, Mr. Eino William",
+    "survived": "yes",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Linehan, Mr. Michael",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ling, Mr. Lee",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lithman, Mr. Simon",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lobb, Mr. William Arthur",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lobb, Mrs. William Arthur (Cord",
+    "survived": "no",
+    "sex": "female",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lockyer, Mr. Edward",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lovell, Mr. John Hall (Henry)",
+    "survived": "no",
+    "sex": "male",
+    "age": 20.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lulic, Mr. Nikola",
+    "survived": "yes",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lundahl, Mr. Johan Svensson",
+    "survived": "no",
+    "sex": "male",
+    "age": 51,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lundin, Miss. Olga Elida",
+    "survived": "yes",
+    "sex": "female",
+    "age": 23,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lundstrom, Mr. Thure Edvin",
+    "survived": "yes",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Lyntakoff, Mr. Stanko",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "MacKay, Mr. George William",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Madigan, Miss. Margaret Maggie",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Madsen, Mr. Fridtjof Arne",
+    "survived": "yes",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Maenpaa, Mr. Matti Alexanteri",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Mahon, Miss. Bridget Delia",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Mahon, Mr. John",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Maisner, Mr. Simon",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Makinen, Mr. Kalle Edvard",
+    "survived": "no",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Mamee, Mr. Hanna",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Mangan, Miss. Mary",
+    "survived": "no",
+    "sex": "female",
+    "age": 30.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Mannion, Miss. Margareth",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Mardirosian, Mr. Sarkis",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Markoff, Mr. Marin",
+    "survived": "no",
+    "sex": "male",
+    "age": 35,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Markun, Mr. Johann",
+    "survived": "no",
+    "sex": "male",
+    "age": 33,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Masselmani, Mrs. Fatima",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Matinoff, Mr. Nicola",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "McCarthy, Miss. Catherine Kati",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "McCormack, Mr. Thomas Joseph",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "McCoy, Miss. Agnes",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "McCoy, Miss. Alicia",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "McCoy, Mr. Bernard",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "McDermott, Miss. Brigdet Delia",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "McEvoy, Mr. Michael",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "McGovern, Miss. Mary",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "McGowan, Miss. Anna Annie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 15,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "McGowan, Miss. Katherine",
+    "survived": "no",
+    "sex": "female",
+    "age": 35,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "McMahon, Mr. Martin",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "McNamee, Mr. Neal",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "McNamee, Mrs. Neal (Eileen O'Le",
+    "survived": "no",
+    "sex": "female",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "McNeill, Miss. Bridget",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Meanwell, Miss. (Marion Ogden)",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Meek, Mrs. Thomas (Annie Louise",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Meo, Mr. Alfonzo",
+    "survived": "no",
+    "sex": "male",
+    "age": 55.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Mernagh, Mr. Robert",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Midtsjo, Mr. Karl Albert",
+    "survived": "yes",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Miles, Mr. Frank",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Mineff, Mr. Ivan",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Minkoff, Mr. Lazar",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Mionoff, Mr. Stoytcho",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Mitkoff, Mr. Mito",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Mockler, Miss. Helen Mary Elli",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Moen, Mr. Sigurd Hansen",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Moor, Master. Meier",
+    "survived": "yes",
+    "sex": "male",
+    "age": 6,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Moor, Mrs. (Beila)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 27,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Moore, Mr. Leonard Charles",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Moran, Miss. Bertha",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Moran, Mr. Daniel J",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Moran, Mr. James",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Morley, Mr. William",
+    "survived": "no",
+    "sex": "male",
+    "age": 34,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Morrow, Mr. Thomas Rowan",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Moss, Mr. Albert Johan",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Moubarek, Master. Gerios",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Moubarek, Master. Halim Gonios",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Moubarek, Mrs. George (Omine A",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Moussa, Mrs. (Mantoura Boulos)",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Moutal, Mr. Rahamin Haim",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Mullens, Miss. Katherine Katie",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Mulvihill, Miss. Bertha E",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Murdlin, Mr. Joseph",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Murphy, Miss. Katherine Kate",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Murphy, Miss. Margaret Jane",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Murphy, Miss. Nora",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Myhrman, Mr. Pehr Fabian Oliver",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Naidenoff, Mr. Penko",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Najib, Miss. Adele Kiamie Jane",
+    "survived": "yes",
+    "sex": "female",
+    "age": 15,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nakid, Miss. Maria (Mary)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 1,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nakid, Mr. Sahid",
+    "survived": "yes",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nakid, Mrs. Said (Waika Mary",
+    "survived": "yes",
+    "sex": "female",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nancarrow, Mr. William Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": 33,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nankoff, Mr. Minko",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nasr, Mr. Mustafa",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Naughton, Miss. Hannah",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nenkoff, Mr. Christo",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nicola-Yarred, Master. Elias",
+    "survived": "yes",
+    "sex": "male",
+    "age": 12,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nicola-Yarred, Miss. Jamila",
+    "survived": "yes",
+    "sex": "female",
+    "age": 14,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nieminen, Miss. Manta Josefina",
+    "survived": "no",
+    "sex": "female",
+    "age": 29,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Niklasson, Mr. Samuel",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nilsson, Miss. Berta Olivia",
+    "survived": "yes",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nilsson, Miss. Helmina Josefina",
+    "survived": "yes",
+    "sex": "female",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nilsson, Mr. August Ferdinand",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nirva, Mr. Iisakki Antino Aijo",
+    "survived": "no",
+    "sex": "male",
+    "age": 41,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Niskanen, Mr. Juha",
+    "survived": "yes",
+    "sex": "male",
+    "age": 39,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nosworthy, Mr. Richard Cater",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Novel, Mr. Mansouer",
+    "survived": "no",
+    "sex": "male",
+    "age": 28.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nysten, Miss. Anna Sofia",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Nysveen, Mr. Johan Hansen",
+    "survived": "no",
+    "sex": "male",
+    "age": 61,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "O'Brien, Mr. Thomas",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "O'Brien, Mr. Timothy",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "O'Brien, Mrs. Thomas (Johanna",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "O'Connell, Mr. Patrick D",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "O'Connor, Mr. Maurice",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "O'Connor, Mr. Patrick",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Odahl, Mr. Nils Martin",
+    "survived": "no",
+    "sex": "male",
+    "age": 23,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "O'Donoghue, Ms. Bridget",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "O'Driscoll, Miss. Bridget",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "O'Dwyer, Miss. Ellen Nellie",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ohman, Miss. Velin",
+    "survived": "yes",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "O'Keefe, Mr. Patrick",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "O'Leary, Miss. Hanora Norah",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Olsen, Master. Artur Karl",
+    "survived": "yes",
+    "sex": "male",
+    "age": 9,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Olsen, Mr. Henry Margido",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Olsen, Mr. Karl Siegwart Andrea",
+    "survived": "no",
+    "sex": "male",
+    "age": 42,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Olsen, Mr. Ole Martin",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Olsson, Miss. Elina",
+    "survived": "no",
+    "sex": "female",
+    "age": 31,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Olsson, Mr. Nils Johan Goransso",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Olsson, Mr. Oscar Wilhelm",
+    "survived": "yes",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Olsvigen, Mr. Thor Anderson",
+    "survived": "no",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Oreskovic, Miss. Jelka",
+    "survived": "no",
+    "sex": "female",
+    "age": 23,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Oreskovic, Miss. Marija",
+    "survived": "no",
+    "sex": "female",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Oreskovic, Mr. Luka",
+    "survived": "no",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Osen, Mr. Olaf Elon",
+    "survived": "no",
+    "sex": "male",
+    "age": 16,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Osman, Mrs. Mara",
+    "survived": "yes",
+    "sex": "female",
+    "age": 31,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "O'Sullivan, Miss. Bridget Mary",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Palsson, Master. Gosta Leonard",
+    "survived": "no",
+    "sex": "male",
+    "age": 2,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Palsson, Master. Paul Folke",
+    "survived": "no",
+    "sex": "male",
+    "age": 6,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Palsson, Miss. Stina Viola",
+    "survived": "no",
+    "sex": "female",
+    "age": 3,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Palsson, Miss. Torborg Danira",
+    "survived": "no",
+    "sex": "female",
+    "age": 8,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Palsson, Mrs. Nils (Alma Cornel",
+    "survived": "no",
+    "sex": "female",
+    "age": 29,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Panula, Master. Eino Viljami",
+    "survived": "no",
+    "sex": "male",
+    "age": 1,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Panula, Master. Juha Niilo",
+    "survived": "no",
+    "sex": "male",
+    "age": 7,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Panula, Master. Urho Abraham",
+    "survived": "no",
+    "sex": "male",
+    "age": 2,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Panula, Mr. Ernesti Arvid",
+    "survived": "no",
+    "sex": "male",
+    "age": 16,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Panula, Mr. Jaako Arnold",
+    "survived": "no",
+    "sex": "male",
+    "age": 14,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Panula, Mrs. Juha (Maria Emilia",
+    "survived": "no",
+    "sex": "female",
+    "age": 41,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Pasic, Mr. Jakob",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Patchett, Mr. George",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Paulner, Mr. Uscher",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Pavlovic, Mr. Stefo",
+    "survived": "no",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Peacock, Master. Alfred Edward",
+    "survived": "no",
+    "sex": "male",
+    "age": 0.75,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Peacock, Miss. Treasteall",
+    "survived": "no",
+    "sex": "female",
+    "age": 3,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Peacock, Mrs. Benjamin (Edith N",
+    "survived": "no",
+    "sex": "female",
+    "age": 26,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Pearce, Mr. Ernest",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Pedersen, Mr. Olaf",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Peduzzi, Mr. Joseph",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Pekoniemi, Mr. Edvard",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Peltomaki, Mr. Nikolai Johannes",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Perkin, Mr. John Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Persson, Mr. Ernst Ulrik",
+    "survived": "yes",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Peter, Master. Michael J",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Peter, Miss. Anna",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Peter, Mrs. Catherine (Catherin",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Peters, Miss. Katie",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Petersen, Mr. Marius",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Petranec, Miss. Matilda",
+    "survived": "no",
+    "sex": "female",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Petroff, Mr. Nedelio",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Petroff, Mr. Pastcho (Pentcho",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Petterson, Mr. Johan Emil",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Pettersson, Miss. Ellen Natalia",
+    "survived": "no",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Pickard, Mr. Berk (Berk Trembis",
+    "survived": "yes",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Plotcharsky, Mr. Vasil",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Pokrnic, Mr. Mate",
+    "survived": "no",
+    "sex": "male",
+    "age": 17,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Pokrnic, Mr. Tome",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Radeff, Mr. Alexander",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rasmussen, Mrs. (Lena Jacobsen",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Razi, Mr. Raihed",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Reed, Mr. James George",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rekic, Mr. Tido",
+    "survived": "no",
+    "sex": "male",
+    "age": 38,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Reynolds, Mr. Harold J",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rice, Master. Albert",
+    "survived": "no",
+    "sex": "male",
+    "age": 10,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rice, Master. Arthur",
+    "survived": "no",
+    "sex": "male",
+    "age": 4,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rice, Master. Eric",
+    "survived": "no",
+    "sex": "male",
+    "age": 7,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rice, Master. Eugene",
+    "survived": "no",
+    "sex": "male",
+    "age": 2,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rice, Master. George Hugh",
+    "survived": "no",
+    "sex": "male",
+    "age": 8,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rice, Mrs. William (Margaret No",
+    "survived": "no",
+    "sex": "female",
+    "age": 39,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Riihivouri, Miss. Susanna Juhan",
+    "survived": "no",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rintamaki, Mr. Matti",
+    "survived": "no",
+    "sex": "male",
+    "age": 35,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Riordan, Miss. Johanna Hannah",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Risien, Mr. Samuel Beard",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Risien, Mrs. Samuel (Emma)",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Robins, Mr. Alexander A",
+    "survived": "no",
+    "sex": "male",
+    "age": 50,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Robins, Mrs. Alexander A (Grace",
+    "survived": "no",
+    "sex": "female",
+    "age": 47,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rogers, Mr. William John",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rommetvedt, Mr. Knud Paust",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rosblom, Miss. Salli Helena",
+    "survived": "no",
+    "sex": "female",
+    "age": 2,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rosblom, Mr. Viktor Richard",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rosblom, Mrs. Viktor (Helena Wi",
+    "survived": "no",
+    "sex": "female",
+    "age": 41,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Roth, Miss. Sarah A",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rouse, Mr. Richard Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": 50,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Rush, Mr. Alfred George John",
+    "survived": "no",
+    "sex": "male",
+    "age": 16,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ryan, Mr. Edward",
+    "survived": "yes",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ryan, Mr. Patrick",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Saad, Mr. Amin",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Saad, Mr. Khalil",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Saade, Mr. Jean Nassr",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sadlier, Mr. Matthew",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sadowitz, Mr. Harry",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Saether, Mr. Simon Sivertsen",
+    "survived": "no",
+    "sex": "male",
+    "age": 38.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sage, Master. Thomas Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sage, Master. William Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": 14.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sage, Miss. Ada",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sage, Miss. Constance Gladys",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sage, Miss. Dorothy Edith Doll",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sage, Miss. Stella Anna",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sage, Mr. Douglas Bullen",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sage, Mr. Frederick",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sage, Mr. George John Jr",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sage, Mr. John George",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sage, Mrs. John (Annie Bullen)",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Salander, Mr. Karl Johan",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Salkjelsvik, Miss. Anna Kristin",
+    "survived": "yes",
+    "sex": "female",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Salonen, Mr. Johan Werner",
+    "survived": "no",
+    "sex": "male",
+    "age": 39,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Samaan, Mr. Elias",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Samaan, Mr. Hanna",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Samaan, Mr. Youssef",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sandstrom, Miss. Beatrice Irene",
+    "survived": "yes",
+    "sex": "female",
+    "age": 1,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sandstrom, Mrs. Hjalmar (Agnes",
+    "survived": "yes",
+    "sex": "female",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sandstrom, Miss. Marguerite Rut",
+    "survived": "yes",
+    "sex": "female",
+    "age": 4,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sap, Mr. Julius",
+    "survived": "yes",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Saundercock, Mr. William Henry",
+    "survived": "no",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sawyer, Mr. Frederick Charles",
+    "survived": "no",
+    "sex": "male",
+    "age": 24.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Scanlan, Mr. James",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sdycoff, Mr. Todor",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Shaughnessy, Mr. Patrick",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sheerlinck, Mr. Jan Baptist",
+    "survived": "yes",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Shellard, Mr. Frederick William",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Shine, Miss. Ellen Natalia",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Shorney, Mr. Charles Joseph",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Simmons, Mr. John",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sirayanian, Mr. Orsen",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sirota, Mr. Maurice",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sivic, Mr. Husein",
+    "survived": "no",
+    "sex": "male",
+    "age": 40,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sivola, Mr. Antti Wilhelm",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sjoblom, Miss. Anna Sofia",
+    "survived": "yes",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Skoog, Master. Harald",
+    "survived": "no",
+    "sex": "male",
+    "age": 4,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Skoog, Master. Karl Thorsten",
+    "survived": "no",
+    "sex": "male",
+    "age": 10,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Skoog, Miss. Mabel",
+    "survived": "no",
+    "sex": "female",
+    "age": 9,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Skoog, Miss. Margit Elizabeth",
+    "survived": "no",
+    "sex": "female",
+    "age": 2,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Skoog, Mr. Wilhelm",
+    "survived": "no",
+    "sex": "male",
+    "age": 40,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Skoog, Mrs. William (Anna Bernh",
+    "survived": "no",
+    "sex": "female",
+    "age": 45,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Slabenoff, Mr. Petco",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Slocovski, Mr. Selman Francis",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Smiljanic, Mr. Mile",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Smith, Mr. Thomas",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Smyth, Miss. Julia",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Soholt, Mr. Peter Andreas Lauri",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Somerton, Mr. Francis William",
+    "survived": "no",
+    "sex": "male",
+    "age": 30,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Spector, Mr. Woolf",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Spinner, Mr. Henry John",
+    "survived": "no",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Staneff, Mr. Ivan",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Stankovic, Mr. Ivan",
+    "survived": "no",
+    "sex": "male",
+    "age": 33,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Stanley, Miss. Amy Zillah Elsie",
+    "survived": "yes",
+    "sex": "female",
+    "age": 23,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Stanley, Mr. Edward Roland",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Storey, Mr. Thomas",
+    "survived": "no",
+    "sex": "male",
+    "age": 60.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Stoytcheff, Mr. Ilia",
+    "survived": "no",
+    "sex": "male",
+    "age": 19,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Strandberg, Miss. Ida Sofia",
+    "survived": "no",
+    "sex": "female",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Stranden, Mr. Juho",
+    "survived": "yes",
+    "sex": "male",
+    "age": 31,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Strilic, Mr. Ivan",
+    "survived": "no",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Strom, Miss. Telma Matilda",
+    "survived": "no",
+    "sex": "female",
+    "age": 2,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Strom, Mrs. Wilhelm (Elna Matil",
+    "survived": "no",
+    "sex": "female",
+    "age": 29,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sunderland, Mr. Victor Francis",
+    "survived": "yes",
+    "sex": "male",
+    "age": 16,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sundman, Mr. Johan Julian",
+    "survived": "yes",
+    "sex": "male",
+    "age": 44,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Sutehall, Mr. Henry Jr",
+    "survived": "no",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Svensson, Mr. Johan",
+    "survived": "no",
+    "sex": "male",
+    "age": 74,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Svensson, Mr. Johan Cervin",
+    "survived": "yes",
+    "sex": "male",
+    "age": 14,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Svensson, Mr. Olof",
+    "survived": "no",
+    "sex": "male",
+    "age": 24,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Tenglin, Mr. Gunnar Isidor",
+    "survived": "yes",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Theobald, Mr. Thomas Leonard",
+    "survived": "no",
+    "sex": "male",
+    "age": 34,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Thomas, Master. Assad Alexander",
+    "survived": "yes",
+    "sex": "male",
+    "age": 0.416700006,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Thomas, Mr. Charles P",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Thomas, Mr. John",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Thomas, Mr. Tannous",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Thomas, Mrs. Alexander (Thamine",
+    "survived": "yes",
+    "sex": "female",
+    "age": 16,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Thomson, Mr. Alexander Morrison",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Thorneycroft, Mr. Percival",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Thorneycroft, Mrs. Percival (Fl",
+    "survived": "yes",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Tikkanen, Mr. Juho",
+    "survived": "no",
+    "sex": "male",
+    "age": 32,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Tobin, Mr. Roger",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Todoroff, Mr. Lalio",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Tomlin, Mr. Ernest Portage",
+    "survived": "no",
+    "sex": "male",
+    "age": 30.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Torber, Mr. Ernst William",
+    "survived": "no",
+    "sex": "male",
+    "age": 44,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Torfa, Mr. Assad",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Tornquist, Mr. William Henry",
+    "survived": "yes",
+    "sex": "male",
+    "age": 25,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Toufik, Mr. Nakli",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Touma, Master. Georges Youssef",
+    "survived": "yes",
+    "sex": "male",
+    "age": 7,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Touma, Miss. Maria Youssef",
+    "survived": "yes",
+    "sex": "female",
+    "age": 9,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Touma, Mrs. Darwis (Hanne Youss",
+    "survived": "yes",
+    "sex": "female",
+    "age": 29,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Turcin, Mr. Stjepan",
+    "survived": "no",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Turja, Miss. Anna Sofia",
+    "survived": "yes",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Turkula, Mrs. (Hedwig)",
+    "survived": "yes",
+    "sex": "female",
+    "age": 63,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "van Billiard, Master. James Wil",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "van Billiard, Master. Walter Jo",
+    "survived": "no",
+    "sex": "male",
+    "age": 11.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "van Billiard, Mr. Austin Blyler",
+    "survived": "no",
+    "sex": "male",
+    "age": 40.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Van Impe, Miss. Catharina",
+    "survived": "no",
+    "sex": "female",
+    "age": 10,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Van Impe, Mr. Jean Baptiste",
+    "survived": "no",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Van Impe, Mrs. Jean Baptiste (R",
+    "survived": "no",
+    "sex": "female",
+    "age": 30,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "van Melkebeke, Mr. Philemon",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Vande Velde, Mr. Johannes Josep",
+    "survived": "no",
+    "sex": "male",
+    "age": 33,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Vande Walle, Mr. Nestor Cyriel",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Vanden Steen, Mr. Leo Peter",
+    "survived": "no",
+    "sex": "male",
+    "age": 28,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Vander Cruyssen, Mr. Victor",
+    "survived": "no",
+    "sex": "male",
+    "age": 47,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Vander Planke, Miss. Augusta Ma",
+    "survived": "no",
+    "sex": "female",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Vander Planke, Mr. Julius",
+    "survived": "no",
+    "sex": "male",
+    "age": 31,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Vander Planke, Mr. Leo Edmondus",
+    "survived": "no",
+    "sex": "male",
+    "age": 16,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Vander Planke, Mrs. Julius (Eme",
+    "survived": "no",
+    "sex": "female",
+    "age": 31,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Vartanian, Mr. David",
+    "survived": "yes",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Vendel, Mr. Olof Edvin",
+    "survived": "no",
+    "sex": "male",
+    "age": 20,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Vestrom, Miss. Hulda Amanda Ado",
+    "survived": "no",
+    "sex": "female",
+    "age": 14,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Vovk, Mr. Janko",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Waelens, Mr. Achille",
+    "survived": "no",
+    "sex": "male",
+    "age": 22,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Ware, Mr. Frederick",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Warren, Mr. Charles William",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Webber, Mr. James",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Wenzel, Mr. Linhart",
+    "survived": "no",
+    "sex": "male",
+    "age": 32.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Whabee, Mrs. George Joseph (Sha",
+    "survived": "yes",
+    "sex": "female",
+    "age": 38,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Widegren, Mr. Carl/Charles Pete",
+    "survived": "no",
+    "sex": "male",
+    "age": 51,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Wiklund, Mr. Jakob Alfred",
+    "survived": "no",
+    "sex": "male",
+    "age": 18,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Wiklund, Mr. Karl Johan",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Wilkes, Mrs. James (Ellen Needs",
+    "survived": "yes",
+    "sex": "female",
+    "age": 47,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Willer, Mr. Aaron (Abi Weller",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Willey, Mr. Edward",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Williams, Mr. Howard Hugh Harr",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Williams, Mr. Leslie",
+    "survived": "no",
+    "sex": "male",
+    "age": 28.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Windelov, Mr. Einar",
+    "survived": "no",
+    "sex": "male",
+    "age": 21,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Wirz, Mr. Albert",
+    "survived": "no",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Wiseman, Mr. Phillippe",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Wittevrongel, Mr. Camille",
+    "survived": "no",
+    "sex": "male",
+    "age": 36,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Yasbeck, Mr. Antoni",
+    "survived": "no",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Yasbeck, Mrs. Antoni (Selini Al",
+    "survived": "yes",
+    "sex": "female",
+    "age": 15,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Youseff, Mr. Gerious",
+    "survived": "no",
+    "sex": "male",
+    "age": 45.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Yousif, Mr. Wazli",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Yousseff, Mr. Gerious",
+    "survived": "no",
+    "sex": "male",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Zabour, Miss. Hileni",
+    "survived": "no",
+    "sex": "female",
+    "age": 14.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Zabour, Miss. Thamine",
+    "survived": "no",
+    "sex": "female",
+    "age": "NA",
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Zakarian, Mr. Mapriededer",
+    "survived": "no",
+    "sex": "male",
+    "age": 26.5,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Zakarian, Mr. Ortin",
+    "survived": "no",
+    "sex": "male",
+    "age": 27,
+    "passengerClass": "3rd"
+  },
+  {
+    "Name": "Zimmerman, Mr. Leo",
+    "survived": "no",
+    "sex": "male",
+    "age": 29,
+    "passengerClass": "3rd"
+  }
+]
